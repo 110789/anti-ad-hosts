@@ -31,9 +31,10 @@ jobs:
             | grep -v -E 'mtalk\.google\.com|alt[0-9]-mtalk\.google\.com|github\.com|github\.io|githubusercontent\.com|github\.dev|github\.community|github\.blog|githubstatus\.com|githubassets\.com|pipelines\.actions' \
             > src4-hosts.txt || true
 
+          # src5 同时保留 0.0.0.0 和 :: 规则
           grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src5.txt > src5-hosts.txt || true
+          grep -E '^:: [a-zA-Z0-9]' src5.txt >> src5-hosts.txt || true
 
-          # src6 过滤掉IP地址，只保留域名
           grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src6.txt \
             | grep -vE '^0\.0\.0\.0 [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' \
             > src6-hosts.txt || true
