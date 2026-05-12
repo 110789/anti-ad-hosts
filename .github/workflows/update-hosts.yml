@@ -15,15 +15,11 @@ jobs:
       - name: Download & Merge
         run: |
           curl -o src1.txt https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhosts.txt
-          curl -o src2.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
           curl -o src3.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
           curl -o src4.txt https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
 
-          # src1 Tab分隔符转空格再过滤
           grep -P '^0\.0\.0\.0\t[a-zA-Z0-9]' src1.txt \
             | sed 's/\t/ /g' > src1-hosts.txt || true
-
-          grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src2.txt > src2-hosts.txt || true
 
           grep -E '^[a-zA-Z0-9]' src3.txt \
             | grep -v '^!' \
@@ -33,7 +29,7 @@ jobs:
             | grep -v -E 'mtalk\.google\.com|alt[0-9]-mtalk\.google\.com|github\.com|github\.io|githubusercontent\.com|github\.dev|github\.community|github\.blog|githubstatus\.com|githubassets\.com|pipelines\.actions' \
             > src4-hosts.txt || true
 
-          cat src1-hosts.txt src2-hosts.txt src3-hosts.txt src4-hosts.txt \
+          cat src1-hosts.txt src3-hosts.txt src4-hosts.txt \
             | sed 's/ #.*$//' \
             | awk '{print $1" "$2}' \
             | grep -v '0\.0\.0\.0 0\.' \
