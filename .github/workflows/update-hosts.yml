@@ -1,25 +1,47 @@
-- name: Download & Merge
-  run: |
-    curl -o src1.txt https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-    curl -o src2.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-    curl -o src3.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
-    curl -o src4.txt https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
+name: Update Hosts
 
-    grep -E '^[a-zA-Z0-9]' src3.txt \
-      | grep -v '^!' \
-      | sed 's/^/0.0.0.0 /' > src3-hosts.txt
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
-    grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src4.txt \
-      | grep -v -E 'mtalk\.google\.com|alt[0-9]-mtalk|github' \
-      > src4-hosts.txt
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-    # 合并，过滤异常行，去掉注释和多余空格
-    cat src1.txt src2.txt src3-hosts.txt src4-hosts.txt \
-      | grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' \
-      | sed 's/ #.*$//' \
-      | awk '{print $1" "$2}' \
-      | grep -v '0\.0\.0\.0 0\.' \
-      | sort -u \
-      > anti-ad-hosts.txt
+      - name: Download & Merge
+        run: |
+          # 下载规则源
+          curl -o src1.txt https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+          curl -o src2.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+          curl -o src3.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+          curl -o src4.txt https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
 
-    echo "共 $(wc -l < anti-ad-hosts.txt) 条规则"
+          # src3 转换格式
+          grep -E '^[a-zA-Z0-9]' src3.txt \
+            | grep -v '^!' \
+            | sed 's/^/0.0.0.0 /' > src3-hosts.txt
+
+          # src4 过滤掉 FCM/GitHub 加速规则，只保留 0.0.0.0 拦截条目
+          grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src4.txt \
+            | grep -v -E 'mtalk\.google\.com|alt[0-9]-mtalk\.google\.com|github\.com|github\.io|githubusercontent\.com|github\.dev|github\.community|github\.blog|githubstatus\.com|githubassets\.com|pipelines\.actions' \
+            > src4-hosts.txt
+
+          # 合并去重
+          cat src1.txt src2.txt src3-hosts.txt src4-hosts.txt \
+            | grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' \
+            | sort -u \
+            > anti-ad-hosts.txt
+
+          echo "共 $(wc -l < anti-ad-hosts.txt) 条规则"
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add anti-ad-hosts.txt
+          git diff --cached --quiet || git commit -m "update $(date '+%Y-%m-%d %H:%M UTC')"
+          git push
