@@ -12,16 +12,24 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download & Convert
+      - name: Download & Merge
         run: |
-          curl -o anti-ad-domains.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
-          
-          grep -E '^[a-zA-Z0-9]' anti-ad-domains.txt \
+          # 下载三个源
+          curl -o src1.txt https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+          curl -o src2.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+          curl -o src3.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+
+          # src3 需要转换格式
+          grep -E '^[a-zA-Z0-9]' src3.txt \
             | grep -v '^!' \
-            | sed 's/^/0.0.0.0 /' \
+            | sed 's/^/0.0.0.0 /' > src3-hosts.txt
+
+          # 合并去重
+          cat src1.txt src2.txt src3-hosts.txt \
+            | grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' \
             | sort -u \
             > anti-ad-hosts.txt
-          
+
           echo "共 $(wc -l < anti-ad-hosts.txt) 条规则"
 
       - name: Commit & Push
