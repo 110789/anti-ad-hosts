@@ -15,12 +15,14 @@ jobs:
       - name: Download & Merge
         run: |
           curl -o src1.txt https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhosts.txt
-          sed -i 's/\r//' src1.txt
           curl -o src2.txt https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
           curl -o src3.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
           curl -o src4.txt https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
 
-          grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src1.txt > src1-hosts.txt || true
+          # src1 Tab分隔符转空格再过滤
+          grep -P '^0\.0\.0\.0\t[a-zA-Z0-9]' src1.txt \
+            | sed 's/\t/ /g' > src1-hosts.txt || true
+
           grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src2.txt > src2-hosts.txt || true
 
           grep -E '^[a-zA-Z0-9]' src3.txt \
