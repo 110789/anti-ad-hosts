@@ -7704,7 +7704,6 @@
 0.0.0.0 ac3.msn.com
 0.0.0.0 ac674aa453.com
 0.0.0.0 ac9kpxbans1l.staging.unstoppabledomains.com
-0.0.0.0 ac9olrggo8-default-cn.rum.aliyuncs.com
 0.0.0.0 acacdn.com
 0.0.0.0 acaciafilterfrantically.com
 0.0.0.0 acaciagrownborrowing.com
@@ -8235,7 +8234,6 @@
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-market.vivo.com.cn
-0.0.0.0 ad-material.ys7.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-miner.com
@@ -15742,7 +15740,6 @@
 0.0.0.0 analytics.onlinehomeretail.co.uk
 0.0.0.0 analytics.onlyonlinemarketing.com
 0.0.0.0 analytics.ooofoo.com
-0.0.0.0 analytics.ooopic.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orenshmu.com
@@ -26206,6 +26203,7 @@
 0.0.0.0 cdn.yyb.gtimg.com
 0.0.0.0 cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
+0.0.0.0 cdn.zmaticoo.com
 0.0.0.0 cdn0.mobmore.com
 0.0.0.0 cdn1.ad-center.com
 0.0.0.0 cdn1.adadvisor.net
@@ -28568,7 +28566,6 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 cnzzlink.com
-0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-emas.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-sentry.wps.cn
@@ -35165,7 +35162,6 @@
 0.0.0.0 dhfs-id.heytapimage.com
 0.0.0.0 dhfs-in.heytapimage.com
 0.0.0.0 dhfs-my.heytapimage.com
-0.0.0.0 dhfs-ph.heytapimage.com
 0.0.0.0 dhgdp.cn
 0.0.0.0 dhimphits.com
 0.0.0.0 dhjgfftagltab.site
@@ -43448,7 +43444,6 @@
 0.0.0.0 figocjidpbloj.website
 0.0.0.0 figpii.com
 0.0.0.0 figqiqdhirid.in
-0.0.0.0 figshare.com
 0.0.0.0 figsprotein.com
 0.0.0.0 figuredworrying.com
 0.0.0.0 figurehunter.net
@@ -54171,7 +54166,6 @@
 0.0.0.0 impossibleentry.com
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 impostdernly.com
-0.0.0.0 impott.ad.xelements.cn
 0.0.0.0 impractical-safe.com
 0.0.0.0 impracticalsmell.com
 0.0.0.0 impregnabledeceivingcoast.com
@@ -60178,6 +60172,7 @@
 0.0.0.0 ku6.com
 0.0.0.0 ku63.com
 0.0.0.0 ku88.pro
+0.0.0.0 kuaibao.qq.com
 0.0.0.0 kuaibaopay.com
 0.0.0.0 kuaiboads.com
 0.0.0.0 kuaica.info
@@ -62928,7 +62923,6 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 livestats.matrix.it
 0.0.0.0 livetech.shopee.co.id.txlivecdn.com
-0.0.0.0 livetech.shopee.co.th.txlivecdn.com
 0.0.0.0 livetech.shopee.com.br.tlivecdn.com
 0.0.0.0 livetech.shopee.com.br.txlivecdn.com
 0.0.0.0 livetech.shopee.vn.txlivecdn.com
@@ -70961,6 +70955,7 @@
 0.0.0.0 mini-site.larksuite-marketing.com
 0.0.0.0 mini-stats.jpush.cn
 0.0.0.0 mini.cpc.sogou.com
+0.0.0.0 mini.eastday.com
 0.0.0.0 mini.hao123.com
 0.0.0.0 mini.jijiplayer.com
 0.0.0.0 miniapp-ad.bj.bcebos.com
@@ -71892,7 +71887,6 @@
 0.0.0.0 monopoly36.top
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monorailnailtributary.com
-0.0.0.0 monott.ad.xelements.cn
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 monsido.com
 0.0.0.0 monsoonlassi.com
@@ -90440,7 +90434,6 @@
 0.0.0.0 sca-onrt-stsdk.vivoglobal.com
 0.0.0.0 sca-ort-stsdk.vivoglobal.com
 0.0.0.0 sca-p.vivoglobal.com
-0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 sca-st-sl.vivoglobal.com
 0.0.0.0 sca-stsdk.vivoglobal.com
@@ -93942,7 +93935,6 @@
 0.0.0.0 slhemrnxzsmgg.online
 0.0.0.0 slhhhacavywcl.space
 0.0.0.0 slhkfiratldzc.space
-0.0.0.0 slhoffice.cn
 0.0.0.0 slhwzjtaxnvay.website
 0.0.0.0 sli.crazyporn.xxx
 0.0.0.0 slib.tvmao.cn
@@ -108910,6 +108902,7 @@
 0.0.0.0 tracker.xiaomixiaoai.com
 0.0.0.0 tracker.yfanads.com
 0.0.0.0 tracker.yhd.com
+0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackercdnbj.kugou.com
 0.0.0.0 trackercloud.net
@@ -114669,7 +114662,6 @@
 0.0.0.0 v.6dvip.com
 0.0.0.0 v.76768hwj.cn
 0.0.0.0 v.9y88.com
-0.0.0.0 v.ad.xelements.cn
 0.0.0.0 v.adblockultimate.net
 0.0.0.0 v.adintl.cn
 0.0.0.0 v.admaster.com.cn
@@ -126790,6 +126782,7 @@
 0.0.0.0 youtube.2cnt.net
 0.0.0.0 youtui.net
 0.0.0.0 youvisit.com
+0.0.0.0 youxi.baidu.com
 0.0.0.0 youxi.gamecenter.qq.com
 0.0.0.0 youxi.kugou.com
 0.0.0.0 youxiaoad.com
