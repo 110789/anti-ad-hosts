@@ -20,23 +20,33 @@ jobs:
           curl -o src5.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
           curl -o src6.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all
 
+          # GitHub 及开发工具相关域名排除列表
+          GITHUB_EXCLUDE='github\.com$|github\.com |github\.io$|github\.io |githubusercontent\.com$|githubusercontent\.com |github\.dev$|github\.dev |github\.community$|github\.community |github\.blog$|github\.blog |githubstatus\.com$|githubstatus\.com |githubassets\.com$|githubassets\.com |pipelines\.actions|ghcr\.io$|ghcr\.io |npmjs\.com$|npmjs\.com |npm\.community|codeload\.github\.com|copilot\.github\.com|education\.github\.com|classroom\.github\.com|api\.github\.com|uploads\.github\.com|objects\.githubusercontent\.com|raw\.githubusercontent\.com|camo\.githubusercontent\.com|avatars[0-9]*\.githubusercontent\.com'
+
           grep -P '^0\.0\.0\.0\t[a-zA-Z0-9]' src1.txt \
-            | sed 's/\t/ /g' > src1-hosts.txt || true
+            | sed 's/\t/ /g' \
+            | grep -vE "$GITHUB_EXCLUDE" \
+            > src1-hosts.txt || true
 
           grep -E '^[a-zA-Z0-9]' src3.txt \
             | grep -v '^!' \
+            | grep -vE "$GITHUB_EXCLUDE" \
             | sed 's/^/0.0.0.0 /' > src3-hosts.txt || true
 
           grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src4.txt \
-            | grep -v -E 'mtalk\.google\.com|alt[0-9]-mtalk\.google\.com|github\.com|github\.io|githubusercontent\.com|github\.dev|github\.community|github\.blog|githubstatus\.com|githubassets\.com|pipelines\.actions' \
+            | grep -vE "$GITHUB_EXCLUDE" \
             > src4-hosts.txt || true
 
-          # src5 同时保留 0.0.0.0 和 :: 规则
-          grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src5.txt > src5-hosts.txt || true
-          grep -E '^:: [a-zA-Z0-9]' src5.txt >> src5-hosts.txt || true
+          grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src5.txt \
+            | grep -vE "$GITHUB_EXCLUDE" \
+            > src5-hosts.txt || true
+          grep -E '^:: [a-zA-Z0-9]' src5.txt \
+            | grep -vE "$GITHUB_EXCLUDE" \
+            >> src5-hosts.txt || true
 
           grep -E '^0\.0\.0\.0 [a-zA-Z0-9]' src6.txt \
             | grep -vE '^0\.0\.0\.0 [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' \
+            | grep -vE "$GITHUB_EXCLUDE" \
             > src6-hosts.txt || true
 
           cat src1-hosts.txt src3-hosts.txt src4-hosts.txt src5-hosts.txt src6-hosts.txt \
@@ -44,6 +54,7 @@ jobs:
             | awk '{print $1" "$2}' \
             | grep -v '0\.0\.0\.0 0\.' \
             | grep -vE '^0\.0\.0\.0 [0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' \
+            | grep -vE "$GITHUB_EXCLUDE" \
             | sort -u \
             > anti-ad-hosts.txt
 
