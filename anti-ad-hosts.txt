@@ -20026,7 +20026,6 @@
 0.0.0.0 axwyfulzdxrdi.space
 0.0.0.0 axxodcdufa.in
 0.0.0.0 axxqqibnjdunk.space
-0.0.0.0 axyleu11gz-default-cn.rum.aliyuncs.com
 0.0.0.0 ay.delivery
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ay267.com
@@ -21187,7 +21186,6 @@
 0.0.0.0 be880990f9.com
 0.0.0.0 bea-s.dinghuoche.com
 0.0.0.0 beach-vacation.site
-0.0.0.0 beacon-ad.ztgame.com.ztinfoga.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com.gds.alibabadns.com
 0.0.0.0 beacon-err.tingyun.com
@@ -51603,7 +51601,6 @@
 0.0.0.0 img.dubyc.com
 0.0.0.0 img.dydab.com
 0.0.0.0 img.e.sigsauer.com
-0.0.0.0 img.easypass.cn
 0.0.0.0 img.exb.emaildwtc.com
 0.0.0.0 img.fd7c.com
 0.0.0.0 img.feitian001.com
@@ -66029,7 +66026,6 @@
 0.0.0.0 metric.nomura.co.jp
 0.0.0.0 metric.northeast.aaa.com
 0.0.0.0 metric.nrma.com.au
-0.0.0.0 metric.nuonuo.com
 0.0.0.0 metric.octanner.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.optum.com
@@ -76528,7 +76524,6 @@
 0.0.0.0 ph-ad19.focalink.com
 0.0.0.0 ph-ad20.focalink.com
 0.0.0.0 ph-ad21.focalink.com
-0.0.0.0 ph-log-emagzal.lazada.com
 0.0.0.0 ph.qucaigg.com
 0.0.0.0 phadia.thermo.com
 0.0.0.0 phadia.thermofisher.com
@@ -88006,7 +88001,6 @@
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 sg-go.experian.com
-0.0.0.0 sg-log-emagzal.lazada.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-b-hb.rayjump.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-c-hb.rayjump.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
@@ -108072,11 +108066,9 @@
 0.0.0.0 v4r9z-3jgr1.ads.tremorhub.com
 0.0.0.0 v4r9z-fjydq.ads.tremorhub.com
 0.0.0.0 v5-ad.ixigua.com
-0.0.0.0 v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5-ex-reading-ad.qznovelvod.com
 0.0.0.0 v5-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-gddgtc-reading-ad.qznovelvod.com
-0.0.0.0 v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5.cnzz.com
 0.0.0.0 v5.juzi.cn
 0.0.0.0 v53groc9v.com
@@ -115801,7 +115793,6 @@
 0.0.0.0 xianshangzixun.net
 0.0.0.0 xianzhice.com
 0.0.0.0 xiaoangel.com
-0.0.0.0 xiaobaixitong.com
 0.0.0.0 xiaobeier.cn
 0.0.0.0 xiaocai-rookie.info
 0.0.0.0 xiaodongrui.com
