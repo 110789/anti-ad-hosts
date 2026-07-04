@@ -8862,6 +8862,7 @@
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.report.jihuoniao.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.retargeter.com
 0.0.0.0 ad.rfp.fout.jp
@@ -10525,6 +10526,7 @@
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-media.wildberries.ru
 0.0.0.0 ads-mediafin.adhese.com
+0.0.0.0 ads-monitoring.shziyi.com
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-partners.coupang.com
 0.0.0.0 ads-pebblemedia.adhese.com
@@ -27608,6 +27610,7 @@
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
+0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 cname.crank-in.net
 0.0.0.0 cname.ebis.folio-sec.com
@@ -63421,6 +63424,7 @@
 0.0.0.0 margaritawanderingelusive.com
 0.0.0.0 margive.com
 0.0.0.0 mari4norm.com
+0.0.0.0 mariahcarey.cn
 0.0.0.0 marianneperiod.com
 0.0.0.0 maricich.actonservice.com
 0.0.0.0 marimedia.com
@@ -95118,6 +95122,7 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
+0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -108126,7 +108131,6 @@
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
-0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
 0.0.0.0 va-endpoint.com
 0.0.0.0 va.gxpan.cn
