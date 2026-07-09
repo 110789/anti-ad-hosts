@@ -7766,7 +7766,6 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
-0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -10533,6 +10532,7 @@
 0.0.0.0 ads-drcn.platform.dbankcloud.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.cn
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
+0.0.0.0 ads-dre.platform.hihonorcloud.com
 0.0.0.0 ads-drru.platform.hihonorcloud.com
 0.0.0.0 ads-ec.adaptv.advertising.com
 0.0.0.0 ads-eu.adaptv.advertising.com
@@ -10604,6 +10604,7 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-video-qc.xhscdn.com
+0.0.0.0 ads-vp5.xhscdn.com
 0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.1thegioi.vn
@@ -14727,6 +14728,7 @@
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
 0.0.0.0 alinxc.com
+0.0.0.0 alipansou.com
 0.0.0.0 alipay.dajiadou6.com
 0.0.0.0 alipaylog.com
 0.0.0.0 alipromo.com
@@ -16547,6 +16549,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao8.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9-b.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9.com
+0.0.0.0 api-ad-adapter-mb.wps.com
 0.0.0.0 api-ad-adapter-sg.wps.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -41280,7 +41283,6 @@
 0.0.0.0 f8c00ef6a5.com
 0.0.0.0 f8c2gftcsj.com
 0.0.0.0 f8d24e6505.com
-0.0.0.0 f8ds5tkidk-sdk.rum.aliyuncs.com
 0.0.0.0 f8phvntohv.tpetry.me
 0.0.0.0 f921e4caa3.com
 0.0.0.0 f928.pandasuite.io
@@ -55327,7 +55329,6 @@
 0.0.0.0 jinniu168.com
 0.0.0.0 jinraoiahbrhg.online
 0.0.0.0 jinshui2018.chalook.net
-0.0.0.0 jintengli.mobi
 0.0.0.0 jinx.skullctf.com
 0.0.0.0 jinzhao99.com
 0.0.0.0 jioads.akamaized.net
@@ -55359,6 +55360,7 @@
 0.0.0.0 jiuiejdroikop.site
 0.0.0.0 jiujiushishi.com
 0.0.0.0 jiuwert.online
+0.0.0.0 jiuyuntian3.cn
 0.0.0.0 jivevyu.pro
 0.0.0.0 jivox.com
 0.0.0.0 jiwire.com
@@ -66336,6 +66338,7 @@
 0.0.0.0 metric.nomura.co.jp
 0.0.0.0 metric.northeast.aaa.com
 0.0.0.0 metric.nrma.com.au
+0.0.0.0 metric.nuonuo.com
 0.0.0.0 metric.octanner.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.optum.com
@@ -103368,7 +103371,6 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
-0.0.0.0 tracker.chat.bilibili.com
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.curama.jp
@@ -108594,7 +108596,6 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
-0.0.0.0 v95-aw-reading-ad.qznovelvod.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
@@ -111036,6 +111037,8 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -111374,6 +111377,7 @@
 0.0.0.0 wdppwawnhehxn.space
 0.0.0.0 wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0 wdqhdqtlxu.com
+0.0.0.0 wdr160gz.dayugslb.com
 0.0.0.0 wdrinqlklnvcb.space
 0.0.0.0 wdrn97z1o.com
 0.0.0.0 wds.inte.sogoucdn.com
@@ -111943,6 +111947,7 @@
 0.0.0.0 weightydesire.com
 0.0.0.0 weike88.com
 0.0.0.0 weilang.site
+0.0.0.0 weilayun.com
 0.0.0.0 weiledi.com
 0.0.0.0 weiledsteverm.org
 0.0.0.0 weirdergapes.shop
