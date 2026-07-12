@@ -1053,6 +1053,7 @@
 0.0.0.0 24h-ad.24hstatic.com
 0.0.0.0 24h-ipad-ad.24hstatic.com
 0.0.0.0 24kad.com
+0.0.0.0 24klm.cn
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24log.es
@@ -15143,6 +15144,7 @@
 0.0.0.0 amz-ad.a8.net
 0.0.0.0 amzfepdudlyvb.site
 0.0.0.0 amzystkjjhfdz.online
+0.0.0.0 an-tonghuashun.com.cn
 0.0.0.0 an.avast.com
 0.0.0.0 an.avast.ru
 0.0.0.0 an.biocoop.cn
@@ -15333,6 +15335,7 @@
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 analytics.apps.seabroadnet.com
+0.0.0.0 analytics.apps.seabroadnet.com.a1.initgg.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.argeton.com
 0.0.0.0 analytics.arunraghavan.net
@@ -19316,7 +19319,6 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 asxxlo.interflora.es
 0.0.0.0 asy76rvai.com
-0.0.0.0 asyn.cn
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 asypwo.icu
@@ -23580,6 +23582,7 @@
 0.0.0.0 brtrmwotwbcfvsm.com
 0.0.0.0 brtsumthree.com
 0.0.0.0 brtwlhfmomcng.site
+0.0.0.0 brubeck-pl.shop
 0.0.0.0 brubeck-sports.shop
 0.0.0.0 brubecksports.shop
 0.0.0.0 brucelead.com
@@ -24986,6 +24989,8 @@
 0.0.0.0 capeplayer.com
 0.0.0.0 caperedlevi.com
 0.0.0.0 capi.connatix.com
+0.0.0.0 capitalcore-ai.com
+0.0.0.0 capitalcore-ai.net
 0.0.0.0 capitalistsplitting.com
 0.0.0.0 capkkfuiticpo.space
 0.0.0.0 caplvexdhgvbz.website
@@ -26261,7 +26266,6 @@
 0.0.0.0 changepowder.xyz
 0.0.0.0 changmaoxinjzo.com
 0.0.0.0 changyan.sohu.com
-0.0.0.0 changyi21.cn
 0.0.0.0 channel-analysis-js.gmw.cn
 0.0.0.0 channel-impact.actonservice.com
 0.0.0.0 channel.api.duapp.com
@@ -29760,6 +29764,7 @@
 0.0.0.0 cpv.czpush.com
 0.0.0.0 cpv6.com
 0.0.0.0 cpvx.cn
+0.0.0.0 cpwehwhhhdsjddjkdfhesh-dps076qx66zp.edgeone.dev
 0.0.0.0 cpx-research.com
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpx.smind.si
@@ -34218,7 +34223,6 @@
 0.0.0.0 dgmolb.irishjobs.ie
 0.0.0.0 dgnqrl.icu
 0.0.0.0 dgnrkluiozosx.online
-0.0.0.0 dgrj.com.cn
 0.0.0.0 dgrpeldt54.com
 0.0.0.0 dgsgecwesbkh.com
 0.0.0.0 dgstatic.jd.com
@@ -34677,6 +34681,7 @@
 0.0.0.0 dimpsychology.pro
 0.0.0.0 dimqtugkwxzrq.site
 0.0.0.0 dimryaikxp.com
+0.0.0.0 dimupdate.edgeone.app
 0.0.0.0 dinatoikw.com
 0.0.0.0 dincloud.actonservice.com
 0.0.0.0 dincloudllc.actonservice.com
@@ -41439,6 +41444,7 @@
 0.0.0.0 f8c00ef6a5.com
 0.0.0.0 f8c2gftcsj.com
 0.0.0.0 f8d24e6505.com
+0.0.0.0 f8ds5tkidk-sdk.rum.aliyuncs.com
 0.0.0.0 f8phvntohv.tpetry.me
 0.0.0.0 f921e4caa3.com
 0.0.0.0 f928.pandasuite.io
@@ -42914,7 +42920,6 @@
 0.0.0.0 flytechb.com
 0.0.0.0 flywithexecutors.net
 0.0.0.0 flyxutjhemkgg.space
-0.0.0.0 flyye.cn
 0.0.0.0 flznib.weblio.jp
 0.0.0.0 fm.duokanbox.com
 0.0.0.0 fm.ipinyou.com
@@ -47718,7 +47723,6 @@
 0.0.0.0 gxozdwttsqtqp.website
 0.0.0.0 gxqzz.7766.org
 0.0.0.0 gxtihgivnpgei.online
-0.0.0.0 gxtvu.com.cn
 0.0.0.0 gxusko.pinkpanda.hu
 0.0.0.0 gxvdzkmvwmgua.online
 0.0.0.0 gxvf.cn
@@ -48835,6 +48839,7 @@
 0.0.0.0 hhkld.com
 0.0.0.0 hhlian.com
 0.0.0.0 hhllyt.com
+0.0.0.0 hhly88.com
 0.0.0.0 hhmrsmghtbdln.site
 0.0.0.0 hhn.cxslcc.cn
 0.0.0.0 hhosfypbmvdoj.website
@@ -54912,6 +54917,7 @@
 0.0.0.0 iyuedu.cn.com
 0.0.0.0 iyumiao.com.cn
 0.0.0.0 iyvzqt.agabangmall.com
+0.0.0.0 iyww.cn
 0.0.0.0 iyxkoshoagpfc.website
 0.0.0.0 iyykavopdpkxx.site
 0.0.0.0 iyykxvzgtxuyq.space
@@ -56828,7 +56834,6 @@
 0.0.0.0 jygdb.com
 0.0.0.0 jygotubvpyguak.com
 0.0.0.0 jygyrxjwiccts.online
-0.0.0.0 jyhengyi.cn
 0.0.0.0 jyiwnb82b.com
 0.0.0.0 jyjdzogsiedqj.site
 0.0.0.0 jyjiflntdujev.site
@@ -59095,6 +59100,7 @@
 0.0.0.0 learningpenthousedelighted.com
 0.0.0.0 learnmore.protiviti.com
 0.0.0.0 learntchain.com
+0.0.0.0 learnwithnahid.com
 0.0.0.0 learoydfole.click
 0.0.0.0 leavensenamdar.shop
 0.0.0.0 leavensorbic.shop
@@ -61176,7 +61182,6 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
-0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -69955,6 +69960,7 @@
 0.0.0.0 mssuzyhqlqjwj.site
 0.0.0.0 mstat.mos.ru
 0.0.0.0 mstat.zol.com.cn
+0.0.0.0 mstatik.com
 0.0.0.0 mstdsmvnfdqth.space
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mstmsbz.com
@@ -71473,6 +71479,7 @@
 0.0.0.0 news.tcsg.edu
 0.0.0.0 news.thedailyrecord.com
 0.0.0.0 news.thedolancompany.com
+0.0.0.0 news.tuxi.com.cn
 0.0.0.0 news.valawyersweekly.com
 0.0.0.0 news.verimatrix.com
 0.0.0.0 news.xcpi.cn
@@ -76625,6 +76632,7 @@
 0.0.0.0 payments.americanexpress.co.uk
 0.0.0.0 paymentslink.dropp.cc
 0.0.0.0 paynewest.actonservice.com
+0.0.0.0 paypa1.xyz
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 payperclickadvertising.org.uk
 0.0.0.0 payperpost.com
@@ -77728,6 +77736,9 @@
 0.0.0.0 pitatisisminis.openapp.link
 0.0.0.0 pitaya.bytedance.com
 0.0.0.0 pitbull-pl.club
+0.0.0.0 pitbull-sklep.shop
+0.0.0.0 pitbullcloths.club
+0.0.0.0 pitbullcloths.shop
 0.0.0.0 pitbullsport.club
 0.0.0.0 pitbullsports.club
 0.0.0.0 pitbullwestcoast.shop
@@ -84970,6 +84981,7 @@
 0.0.0.0 ru-onrt-stsdk.vivoglobal.com
 0.0.0.0 ru-os-config-appstore.vivoglobal.com
 0.0.0.0 ru-p.vivoglobal.com
+0.0.0.0 ru-pnrt-stsdk.vivoglobal.com
 0.0.0.0 ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 ru-ru.siemensplmevents.com
 0.0.0.0 ru-st-exappupgrade.vivoglobal.com
@@ -87032,7 +87044,6 @@
 0.0.0.0 scjlpq.navitime.co.jp
 0.0.0.0 scjpqut.cn
 0.0.0.0 scjylqtrugste.space
-0.0.0.0 sckexing.cn
 0.0.0.0 sckfcn.cn
 0.0.0.0 sckolyzbykufh.website
 0.0.0.0 sckxppzdm.com
@@ -98552,7 +98563,6 @@
 0.0.0.0 sycnzz.17tanwan.com
 0.0.0.0 sycusaa.pro
 0.0.0.0 sydneyaffordablecremations.com.au
-0.0.0.0 sydyqg.cn
 0.0.0.0 syehsmzxfaspp.space
 0.0.0.0 syeniteexodoi.com
 0.0.0.0 syfgdjrioyipy.space
@@ -106281,7 +106291,6 @@
 0.0.0.0 txzaazmdhtw.com
 0.0.0.0 txzbejxkynpvk.online
 0.0.0.0 txzylleycallj.site
-0.0.0.0 ty.cn
 0.0.0.0 ty.viqiyi.admaster.com.cn
 0.0.0.0 ty.vletv.admaster.com.cn
 0.0.0.0 tyajtlghyxrqj.online
@@ -109066,6 +109075,7 @@
 0.0.0.0 v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5-ex-reading-ad.qznovelvod.com
 0.0.0.0 v5-reading-ad.qznovelvod.com
+0.0.0.0 v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5.cnzz.com
 0.0.0.0 v5.juzi.cn
@@ -109231,6 +109241,7 @@
 0.0.0.0 vamaker.com
 0.0.0.0 vamosesagonic.com
 0.0.0.0 van.ads.link4ads.com
+0.0.0.0 vanaheim.shop
 0.0.0.0 vandalismloungenylon.com
 0.0.0.0 vanderlisten.pro
 0.0.0.0 vane3alga.com
@@ -110404,6 +110415,7 @@
 0.0.0.0 vndrosaaypjvu.website
 0.0.0.0 vnet.cn
 0.0.0.0 vnfmgenxtrmcv.online
+0.0.0.0 vniddlg.xyz
 0.0.0.0 vnijzahxlejop.website
 0.0.0.0 vnjkuwtlddxom.website
 0.0.0.0 vnkzpvmaximaz.website
