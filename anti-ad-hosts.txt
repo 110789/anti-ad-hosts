@@ -2612,22 +2612,16 @@
 0.0.0.0 7strqfn56s.com
 0.0.0.0 7sz0wdk7.xyz
 0.0.0.0 7tshsz6k1.com
-0.0.0.0 7u2gej.com1.z0.glb.clouddn.com
-0.0.0.0 7u2ss1.com1.z0.glb.clouddn.com
 0.0.0.0 7u4b8l1zt.com
 0.0.0.0 7u7jwonbf.com
 0.0.0.0 7ue931y0gn.com
 0.0.0.0 7usgqu07mk.com
-0.0.0.0 7vzmoi.com1.z0.glb.clouddn.com
 0.0.0.0 7w7kditsz.com
 0.0.0.0 7x-star.info
 0.0.0.0 7x4.fr
 0.0.0.0 7x5.fr
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
-0.0.0.0 7xjob4.com1.z0.glb.clouddn.com
-0.0.0.0 7xo4q8.com1.z0.glb.clouddn.com
 0.0.0.0 7xsf3h.com1.z0.glb.clouddn.com
-0.0.0.0 7xsqvb.com1.z0.glb.clouddn.com
 0.0.0.0 7xx3jbcil.com
 0.0.0.0 7y50wscnc8.com
 0.0.0.0 7yy69rrqpz.com
@@ -7789,6 +7783,7 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -8363,6 +8358,7 @@
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-market.vivo.com.cn
+0.0.0.0 ad-material.ys7.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-miner.com
@@ -10577,6 +10573,7 @@
 0.0.0.0 ads-i3.xhscdn.com
 0.0.0.0 ads-i3.xhscdn.com.a.bdydns.com
 0.0.0.0 ads-i4.xhscdn.com
+0.0.0.0 ads-i8.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-img-bak.xhscdn.com
@@ -16619,6 +16616,7 @@
 0.0.0.0 api-analytics-us3.zepp.com
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api-analytics.zepp.com
 0.0.0.0 api-app.ants.vn
 0.0.0.0 api-app.coocaa.ottcn.com
 0.0.0.0 api-auth.flysleep.cn
@@ -19657,6 +19655,7 @@
 0.0.0.0 auth-em.hismarttv.com
 0.0.0.0 auth-eu.hismarttv.com
 0.0.0.0 auth-google.site
+0.0.0.0 auth-jp.hismarttv.com
 0.0.0.0 auth-launcher-em.hismarttv.com
 0.0.0.0 auth-launcher-eu.hismarttv.com
 0.0.0.0 auth-launcher-jp.hismarttv.com
@@ -20141,7 +20140,6 @@
 0.0.0.0 axwyfulzdxrdi.space
 0.0.0.0 axxodcdufa.in
 0.0.0.0 axxqqibnjdunk.space
-0.0.0.0 axyleu11gz-default-cn.rum.aliyuncs.com
 0.0.0.0 ay.delivery
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ay267.com
@@ -27917,6 +27915,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 cnzzlink.com
+0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-emas.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-sentry.wps.cn
@@ -40453,6 +40452,7 @@
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -54917,7 +54917,6 @@
 0.0.0.0 iyuedu.cn.com
 0.0.0.0 iyumiao.com.cn
 0.0.0.0 iyvzqt.agabangmall.com
-0.0.0.0 iyww.cn
 0.0.0.0 iyxkoshoagpfc.website
 0.0.0.0 iyykavopdpkxx.site
 0.0.0.0 iyykxvzgtxuyq.space
@@ -58297,6 +58296,7 @@
 0.0.0.0 kywvfarsxnohn.com
 0.0.0.0 kyxonasaiwycf.site
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com
+0.0.0.0 kz-ort-stsdk.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 kzaa.co.za
@@ -61068,7 +61068,6 @@
 0.0.0.0 lockupaccede.com
 0.0.0.0 lockview.cn
 0.0.0.0 lockvisitingdisprove.com
-0.0.0.0 loclog.cn
 0.0.0.0 locolava.com
 0.0.0.0 locooler-ageneral.com
 0.0.0.0 locopar.com
@@ -64058,7 +64057,6 @@
 0.0.0.0 margaritawanderingelusive.com
 0.0.0.0 margive.com
 0.0.0.0 mari4norm.com
-0.0.0.0 mariahcarey.cn
 0.0.0.0 marianneperiod.com
 0.0.0.0 maricich.actonservice.com
 0.0.0.0 marimedia.com
@@ -89890,7 +89888,6 @@
 0.0.0.0 skhhuhhualfxf.space
 0.0.0.0 skhtgdwpqqbrp.online
 0.0.0.0 ski1.skiset.com
-0.0.0.0 skicc.cn
 0.0.0.0 skidwaverorigin.com
 0.0.0.0 skierjollyobsolete.com
 0.0.0.0 skikxyqqa.com
@@ -95875,6 +95872,7 @@
 0.0.0.0 stat.bankiros.ru
 0.0.0.0 stat.bdc.ca
 0.0.0.0 stat.bigmir.net
+0.0.0.0 stat.browser.heytapmobi.com
 0.0.0.0 stat.buyersedge.com.au
 0.0.0.0 stat.caijing.com.cn
 0.0.0.0 stat.canal-plus.com
@@ -96047,7 +96045,6 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
-0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -103530,6 +103527,7 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
+0.0.0.0 trace.seeyouyima.com
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.ynet.com
@@ -111601,8 +111599,6 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -112023,6 +112019,7 @@
 0.0.0.0 web-stat.jiguang.cn
 0.0.0.0 web-stat.jpush.cn
 0.0.0.0 web-stat.net
+0.0.0.0 web-tonghuashun.com.cn
 0.0.0.0 web-trace.ksapisrv.com
 0.0.0.0 web-track.go2yd.com
 0.0.0.0 web-tracker.smsbump.com
