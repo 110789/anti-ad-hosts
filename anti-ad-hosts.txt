@@ -10596,7 +10596,6 @@
 0.0.0.0 ads-i3.xhscdn.com
 0.0.0.0 ads-i3.xhscdn.com.a.bdydns.com
 0.0.0.0 ads-i4.xhscdn.com
-0.0.0.0 ads-i8.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-img-bak.xhscdn.com
@@ -14794,7 +14793,6 @@
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
 0.0.0.0 alinxc.com
-0.0.0.0 alipansou.com
 0.0.0.0 alipay.dajiadou6.com
 0.0.0.0 alipaylog.com
 0.0.0.0 alipromo.com
@@ -14822,6 +14820,7 @@
 0.0.0.0 all.rising.com.cn
 0.0.0.0 allabc.com
 0.0.0.0 allaysnab.shop
+0.0.0.0 allcars.cn
 0.0.0.0 alldatenow.com
 0.0.0.0 alldk.com
 0.0.0.0 allegemagnanimityensue.com
@@ -16632,6 +16631,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao8.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9-b.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9.com
+0.0.0.0 api-ad-adapter-mb.wps.com
 0.0.0.0 api-ad-adapter-sg.wps.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
@@ -20184,6 +20184,7 @@
 0.0.0.0 axwyfulzdxrdi.space
 0.0.0.0 axxodcdufa.in
 0.0.0.0 axxqqibnjdunk.space
+0.0.0.0 axyleu11gz-default-cn.rum.aliyuncs.com
 0.0.0.0 ay.delivery
 0.0.0.0 ay.eastmoney.com
 0.0.0.0 ay267.com
@@ -20701,6 +20702,8 @@
 0.0.0.0 balox.xyz
 0.0.0.0 balphyra.com
 0.0.0.0 balsam18.com
+0.0.0.0 baltic-pipe-pl.com
+0.0.0.0 baltic-pipe.net
 0.0.0.0 balunkalends.com
 0.0.0.0 balvalur.com
 0.0.0.0 balvehgmhw.com
@@ -21359,7 +21362,6 @@
 0.0.0.0 be880990f9.com
 0.0.0.0 bea-s.dinghuoche.com
 0.0.0.0 beach-vacation.site
-0.0.0.0 beacon-ad.ztgame.com.ztinfoga.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com.gds.alibabadns.com
 0.0.0.0 beacon-err.tingyun.com
@@ -22193,6 +22195,7 @@
 0.0.0.0 bito.com.pk
 0.0.0.0 bitonalachuas.shop
 0.0.0.0 bitonclick.com
+0.0.0.0 bitradex-polska.com
 0.0.0.0 bitspush.io
 0.0.0.0 bittenevenreasoning.com
 0.0.0.0 bitter-inevitable.pro
@@ -23375,6 +23378,7 @@
 0.0.0.0 braverycavalryoats.com
 0.0.0.0 braveryriftraining.com
 0.0.0.0 bravo.israelweather.co.il
+0.0.0.0 bravonitek-pl.com
 0.0.0.0 bravotrk.com
 0.0.0.0 brawexstill.shop
 0.0.0.0 braze.com
@@ -25197,6 +25201,7 @@
 0.0.0.0 carvedseptembernest.com
 0.0.0.0 carvercranberry.com
 0.0.0.0 carvyre.com
+0.0.0.0 cas-microsoft.edgeone.dev
 0.0.0.0 cas.criteo.com
 0.0.0.0 casalemedia.com
 0.0.0.0 casamajuosdksiado.site
@@ -34049,7 +34054,6 @@
 0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detaillog-global-dual.coolzcloud.com
-0.0.0.0 detaillog-global.coolccloud.com
 0.0.0.0 detaillog-global.coolzcloud.com
 0.0.0.0 detailroi.com
 0.0.0.0 details-update.com
@@ -34319,6 +34323,7 @@
 0.0.0.0 dgmolb.irishjobs.ie
 0.0.0.0 dgnqrl.icu
 0.0.0.0 dgnrkluiozosx.online
+0.0.0.0 dgrj.com.cn
 0.0.0.0 dgrpeldt54.com
 0.0.0.0 dgsgecwesbkh.com
 0.0.0.0 dgstatic.jd.com
@@ -49745,6 +49750,7 @@
 0.0.0.0 homla.ink
 0.0.0.0 homladom.homes
 0.0.0.0 homladom.shop
+0.0.0.0 homlamake.shop
 0.0.0.0 homlas.homes
 0.0.0.0 homonidplanked.shop
 0.0.0.0 homxvdntqpyuv.website
@@ -52473,7 +52479,6 @@
 0.0.0.0 imgs.jads.co
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgs.wangketuan.com
-0.0.0.0 imgsize.ph.126.net
 0.0.0.0 imgsniper.com
 0.0.0.0 imgsreview.dftoutiao.com
 0.0.0.0 imgstat.baidu.com
@@ -59438,6 +59443,7 @@
 0.0.0.0 lejieti.com
 0.0.0.0 leju.sina.com.cn
 0.0.0.0 lejuliang.com
+0.0.0.0 lekkirendovikai.com
 0.0.0.0 lekuad.com
 0.0.0.0 lel704cjev.com
 0.0.0.0 lem.nouvelobs.com
@@ -61462,6 +61468,7 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
+0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -66853,6 +66860,7 @@
 0.0.0.0 met.vgwort.de
 0.0.0.0 met1.hp.com
 0.0.0.0 met2.hp.com
+0.0.0.0 meta-transparency-appeal-form-471ed0d914a1.edgeone.dev
 0.0.0.0 meta.video.qiyi.com
 0.0.0.0 meta4-group.com
 0.0.0.0 metabatted.com
@@ -78995,6 +79003,7 @@
 0.0.0.0 polosanitizertrusting.com
 0.0.0.0 poloumbril.com
 0.0.0.0 polsterquintet.com
+0.0.0.0 polunexapro-pl.com
 0.0.0.0 polyad.net
 0.0.0.0 polydarth.com
 0.0.0.0 polyfill-js.cn
@@ -79003,6 +79012,7 @@
 0.0.0.0 polymorphicads.jp
 0.0.0.0 polypak.actonservice.com
 0.0.0.0 polyvalent.co.in
+0.0.0.0 polzentraai-pl.com
 0.0.0.0 pomegranatestaff.com
 0.0.0.0 pomiedzyblokami.pro
 0.0.0.0 pompbeacon.com
@@ -83064,6 +83074,7 @@
 0.0.0.0 readnotify.com
 0.0.0.0 readpeak.com
 0.0.0.0 readserv.com
+0.0.0.0 ready-to-g0u3yt-dp10u3ka993x.edgeone.dev
 0.0.0.0 ready.curriculumassociates.com
 0.0.0.0 ready.nerdery.com
 0.0.0.0 readycelebrationleaf.com
@@ -83754,6 +83765,8 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report-uri.com
 0.0.0.0 report-uri.io
+0.0.0.0 report-us.agora.io
+0.0.0.0 report-us2.agora.io
 0.0.0.0 report.23video.com
 0.0.0.0 report.ad4game.com
 0.0.0.0 report.adsplay.net
@@ -88737,6 +88750,7 @@
 0.0.0.0 sellspirev.com
 0.0.0.0 sellvisited.com
 0.0.0.0 selphiu.com
+0.0.0.0 selvarytm-pl.com
 0.0.0.0 selvi.viessmann.com.tr
 0.0.0.0 selwrite.com
 0.0.0.0 sem.tkc-biyou.jp
@@ -96306,7 +96320,6 @@
 0.0.0.0 stat.bankiros.ru
 0.0.0.0 stat.bdc.ca
 0.0.0.0 stat.bigmir.net
-0.0.0.0 stat.browser.heytapmobi.com
 0.0.0.0 stat.buyersedge.com.au
 0.0.0.0 stat.caijing.com.cn
 0.0.0.0 stat.canal-plus.com
@@ -96479,6 +96492,7 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
+0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -103970,7 +103984,6 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
-0.0.0.0 trace.seeyouyima.com
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.ynet.com
@@ -110884,7 +110897,6 @@
 0.0.0.0 vndrosaaypjvu.website
 0.0.0.0 vnet.cn
 0.0.0.0 vnfmgenxtrmcv.online
-0.0.0.0 vniddlg.xyz
 0.0.0.0 vnijzahxlejop.website
 0.0.0.0 vnjkuwtlddxom.website
 0.0.0.0 vnkzpvmaximaz.website
@@ -112081,6 +112093,8 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -120415,6 +120429,7 @@
 0.0.0.0 zhzzx.com
 0.0.0.0 zi8ivy4b0c7l.com
 0.0.0.0 ziaja-pl.shop
+0.0.0.0 ziajabeatu.shop
 0.0.0.0 ziajacom.shop
 0.0.0.0 ziajamarket.shop
 0.0.0.0 ziajasklep.club
