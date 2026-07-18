@@ -7837,6 +7837,7 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -10682,6 +10683,7 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-verify.flurry.com
 0.0.0.0 ads-video-al.xhscdn.com
+0.0.0.0 ads-video-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads-vp5.xhscdn.com
 0.0.0.0 ads-wc.adaptv.advertising.com
@@ -16126,6 +16128,7 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
+0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -27987,6 +27990,7 @@
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
+0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 cname.crank-in.net
 0.0.0.0 cname.ebis.folio-sec.com
@@ -29910,6 +29914,7 @@
 0.0.0.0 cpmktg.com
 0.0.0.0 cpmleader.com
 0.0.0.0 cpmmedia.net
+0.0.0.0 cpmoz.com
 0.0.0.0 cpmprofitablenetwork.com
 0.0.0.0 cpmrevenuegate.com
 0.0.0.0 cpmroi.com
@@ -34441,7 +34446,6 @@
 0.0.0.0 dgmolb.irishjobs.ie
 0.0.0.0 dgnqrl.icu
 0.0.0.0 dgnrkluiozosx.online
-0.0.0.0 dgrj.com.cn
 0.0.0.0 dgrpeldt54.com
 0.0.0.0 dgsgecwesbkh.com
 0.0.0.0 dgstatic.jd.com
@@ -35932,6 +35936,7 @@
 0.0.0.0 dorpcetnaeli.pro
 0.0.0.0 dorsulachiplet.com
 0.0.0.0 dortmark.net
+0.0.0.0 dorvanek-pl.com
 0.0.0.0 dos-track.domob.cn
 0.0.0.0 dosagepettytrust.com
 0.0.0.0 dosoequalutjd.online
@@ -40743,6 +40748,7 @@
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -49637,6 +49643,7 @@
 0.0.0.0 hk2sch130022135.wns.windows.com
 0.0.0.0 hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
+0.0.0.0 hk50606.cn
 0.0.0.0 hkaixrkwqwubw.website
 0.0.0.0 hkcdwvzfosepe.online
 0.0.0.0 hkcqpidtxaqkl.online
@@ -62008,7 +62015,6 @@
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logserver.nzxcloud.cn
-0.0.0.0 logservice-asia.agora.io
 0.0.0.0 logservice-dra.platform.dbankcloud.cn
 0.0.0.0 logservice-dra.platform.dbankcloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -81966,6 +81972,7 @@
 0.0.0.0 qivblppvkfdxy.online
 0.0.0.0 qivkynembpare.site
 0.0.0.0 qivsvu.creedboutique.com
+0.0.0.0 qivzorun-pl.com
 0.0.0.0 qivzzjzsutlwk.site
 0.0.0.0 qiwo.cc
 0.0.0.0 qiwxrzkzauasd.online
@@ -97132,6 +97139,7 @@
 0.0.0.0 statistic-overseas.yunxinfw.com
 0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistic.audima.co
+0.0.0.0 statistic.cj.sina.cn
 0.0.0.0 statistic.date
 0.0.0.0 statistic.jac-systeme.de
 0.0.0.0 statistic.live.126.net
@@ -98022,6 +98030,7 @@
 0.0.0.0 statscollector-1-asia.agora.io
 0.0.0.0 statscollector-1-europe.agora.io
 0.0.0.0 statscollector-1-north-america.agora.io
+0.0.0.0 statscollector-1-south-america.agora.io
 0.0.0.0 statscollector-1.agora.io
 0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statse-omtrdc.deka.de
@@ -110109,6 +110118,7 @@
 0.0.0.0 v9.cnzz.com
 0.0.0.0 v95-aw-reading-ad.qznovelvod.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
+0.0.0.0 v95-ynkmtc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
