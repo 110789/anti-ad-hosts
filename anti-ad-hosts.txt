@@ -8941,6 +8941,7 @@
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
 0.0.0.0 ad.ohmynews.com
+0.0.0.0 ad.open.api.jihuoniao.com
 0.0.0.0 ad.open.jiguang.cn
 0.0.0.0 ad.ordersuit.info
 0.0.0.0 ad.org.vn
@@ -8987,6 +8988,7 @@
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.report.jihuoniao.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.retargeter.com
 0.0.0.0 ad.rfp.fout.jp
@@ -10640,6 +10642,7 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
 0.0.0.0 ads-i1.xhscdn.com
+0.0.0.0 ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com.w.cdngslb.com
@@ -14876,7 +14879,6 @@
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.cn
 0.0.0.0 alime-pic.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0 alimelog.taobao.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
@@ -25304,6 +25306,7 @@
 0.0.0.0 can-get-some.net
 0.0.0.0 canadamarketing.travelsavers.com
 0.0.0.0 canadsky.com
+0.0.0.0 canard-gov.com
 0.0.0.0 cancellation10.top
 0.0.0.0 cancellation39.com
 0.0.0.0 cancellation58.top
@@ -40546,6 +40549,7 @@
 0.0.0.0 eo.3y4n.cn
 0.0.0.0 eo.40ic.cn
 0.0.0.0 eo.4s5n.cn
+0.0.0.0 eo.dongdm.cn
 0.0.0.0 eo.nftqkq.cn
 0.0.0.0 eo.pearlinsurance.com
 0.0.0.0 eo.sdagxz.xyz
@@ -42956,6 +42960,7 @@
 0.0.0.0 fhgxsfytivllj.space
 0.0.0.0 fhhctb.icu
 0.0.0.0 fhhteiaunxbvp.online
+0.0.0.0 fhitagd.cn
 0.0.0.0 fhiwyq.axiory.com
 0.0.0.0 fhjhcrmwbgvkz.website
 0.0.0.0 fhjtxjyqnijba.space
@@ -46730,6 +46735,7 @@
 0.0.0.0 glum-mortgage.com
 0.0.0.0 glumbicbitline.pro
 0.0.0.0 glumrevenue.com
+0.0.0.0 glurvextopin-ai.net
 0.0.0.0 glutenmuttsensuous.com
 0.0.0.0 gluvrkcvvldus.website
 0.0.0.0 glvhvesvnp.com
@@ -97860,6 +97866,7 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
+0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -105461,6 +105468,7 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
+0.0.0.0 trace.seeyouyima.com
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.ynet.com
