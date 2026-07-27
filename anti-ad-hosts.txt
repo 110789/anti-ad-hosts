@@ -2134,6 +2134,7 @@
 0.0.0.0 5p35xkp1p.com
 0.0.0.0 5pi13h3q.de
 0.0.0.0 5platforms.net
+0.0.0.0 5pub.com
 0.0.0.0 5qjspf2c.xyz
 0.0.0.0 5qryjrx3.xyz
 0.0.0.0 5qzone.net
@@ -7856,6 +7857,7 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -10654,7 +10656,6 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
 0.0.0.0 ads-i1.xhscdn.com
-0.0.0.0 ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com.w.cdngslb.com
@@ -14894,6 +14895,7 @@
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.cn
 0.0.0.0 alime-pic.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 alimelog.taobao.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
@@ -16210,7 +16212,6 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
-0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -27327,7 +27328,6 @@
 0.0.0.0 clauzmknmsmfh.online
 0.0.0.0 claydar.com
 0.0.0.0 claynelsonlifebalance.actonservice.com
-0.0.0.0 claz.com.cn
 0.0.0.0 clb.yahoo.co.jp
 0.0.0.0 clbaf.com
 0.0.0.0 clbjmp.com
@@ -28405,6 +28405,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 cnzzlink.com
+0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-emas.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-sentry.wps.cn
@@ -49335,6 +49336,7 @@
 0.0.0.0 hbwztfpirtboe.site
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 hbx.media.net
+0.0.0.0 hbxhnqj.cn
 0.0.0.0 hbxmdkibvlzcu.online
 0.0.0.0 hbxpjlbmhffda.space
 0.0.0.0 hby7.destinia.it
@@ -50260,7 +50262,6 @@
 0.0.0.0 hk2sch130022135.wns.windows.com
 0.0.0.0 hk2wns1.wns.windows.com
 0.0.0.0 hk2wns1b.wns.windows.com
-0.0.0.0 hk50606.cn
 0.0.0.0 hkaixrkwqwubw.website
 0.0.0.0 hkcdwvzfosepe.online
 0.0.0.0 hkcqpidtxaqkl.online
@@ -70281,7 +70282,6 @@
 0.0.0.0 mkoivyphqgnpg.website
 0.0.0.0 mkolqj.ozonee.pl
 0.0.0.0 mkpjchfevxpud.website
-0.0.0.0 mkplastic.cn
 0.0.0.0 mkronwjptnjrh.site
 0.0.0.0 mkrplsblistuf.website
 0.0.0.0 mkrygmdgxfkzy.online
@@ -76860,6 +76860,7 @@
 0.0.0.0 ottadvisors.com
 0.0.0.0 ottawa-content.cresa.com
 0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 otto5loki.com
 0.0.0.0 ottupdate.api.mgtv.com
 0.0.0.0 ottupdate.api.nunaios.com
@@ -98231,7 +98232,6 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
-0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -101597,6 +101597,7 @@
 0.0.0.0 t101.cn
 0.0.0.0 t13.io
 0.0.0.0 t157.com
+0.0.0.0 t17.market.xiaomi.com
 0.0.0.0 t188.dazhonghua.cn
 0.0.0.0 t19olm6fd.com
 0.0.0.0 t1d26dvout.com
@@ -106199,6 +106200,7 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.chat.bilibili.com
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.curama.jp
@@ -109333,6 +109335,7 @@
 0.0.0.0 uhuvadkubxjkv.website
 0.0.0.0 uhvcfshrblbgx.online
 0.0.0.0 uhvsefglyttww.fun
+0.0.0.0 uhwnrfu.cn
 0.0.0.0 uhwzjbveib.com
 0.0.0.0 uhygtf1.com
 0.0.0.0 uhyqieok5u.com
@@ -114144,7 +114147,6 @@
 0.0.0.0 walnutneckvariability.com
 0.0.0.0 walruspractitioner.com
 0.0.0.0 walutura.pro
-0.0.0.0 walz.cn
 0.0.0.0 wamahe.wokularach.pl
 0.0.0.0 wamcash.com
 0.0.0.0 wamceq.icu
@@ -114175,8 +114177,6 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -124145,6 +124145,7 @@
 :: ads-video-al.xhscdn.com
 :: ads-video-qc.xhscdn.com
 :: ads.95516.com
+:: ads.adfunlink.com
 :: ads.auctions.yahoo.com
 :: ads.cup.com.cn
 :: ads.google.cn
@@ -124202,6 +124203,7 @@
 :: adtago.s3.amazonaws.com
 :: adtech.yahooinc.com
 :: adtrack.quark.cn
+:: adtracker.adfunlink.com
 :: adtracker.medproad.com
 :: adui.tg.meitu.com
 :: adv-api.shenshiads.com
@@ -124495,7 +124497,6 @@
 :: image-ad.sm.cn
 :: image.hpplay.cn
 :: images.outbrainimg.com
-:: images.pinduoduo.com
 :: imdns.hpplay.cn
 :: img-c.heytapimage.com
 :: img-x.jd.com
@@ -124950,7 +124951,6 @@
 :: ykad-data.cp31.ott.cibntv.net
 :: ykad-data.youku.com
 :: ykad-gateway.youku.com
-:: youku-acs.m.taobao.com
 :: ytx-file.110route.cn
 :: zeus.ad.xiaomi.com
 :: zhihu-web-analytics.zhihu.com
