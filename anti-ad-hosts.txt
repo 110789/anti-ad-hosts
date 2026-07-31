@@ -1228,7 +1228,6 @@
 0.0.0.0 2g312kn32qfy-1323053341.cos.ap-bangkok.myqcloud.com
 0.0.0.0 2g8lomzrb.com
 0.0.0.0 2gg6ebbhh.de
-0.0.0.0 2girls1finger.org
 0.0.0.0 2gnc.com
 0.0.0.0 2gtest.bj2cu.u3.ucweb.com
 0.0.0.0 2h4els889.com
@@ -8463,6 +8462,7 @@
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-market.vivo.com.cn
+0.0.0.0 ad-material.ys7.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-miner.com
@@ -8977,6 +8977,7 @@
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
 0.0.0.0 ad.ohmynews.com
+0.0.0.0 ad.open.api.jihuoniao.com
 0.0.0.0 ad.open.jiguang.cn
 0.0.0.0 ad.ordersuit.info
 0.0.0.0 ad.org.vn
@@ -10678,6 +10679,7 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
 0.0.0.0 ads-i1.xhscdn.com
+0.0.0.0 ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com.w.cdngslb.com
@@ -10692,7 +10694,6 @@
 0.0.0.0 ads-integration.rustore.ru
 0.0.0.0 ads-jp.tiktok.com
 0.0.0.0 ads-lb.serving-sys.cn
-0.0.0.0 ads-leona-s1.xhscdn.com
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0 ads-log.huolala.cn
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -14455,6 +14456,7 @@
 0.0.0.0 ai-factory-app.pro
 0.0.0.0 ai-nexork.com
 0.0.0.0 ai-poweredinvestmentplatforms.pro
+0.0.0.0 ai-proinvest-polska.com
 0.0.0.0 ai-stock.pro
 0.0.0.0 ai.advertisement.alibabacorp.sm.cn
 0.0.0.0 ai.bioon.com
@@ -16243,6 +16245,7 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
+0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -21909,7 +21912,9 @@
 0.0.0.0 berthfrankly.com
 0.0.0.0 bertsysxmykqm.online
 0.0.0.0 berush.com
+0.0.0.0 bervonik-ai.com
 0.0.0.0 bervonik-pl.com
+0.0.0.0 bervonik.net
 0.0.0.0 bes-api.oceanengine.com
 0.0.0.0 bes-mtj.baidu.com
 0.0.0.0 besc.baidustatic.com
@@ -60715,7 +60720,6 @@
 0.0.0.0 learningpenthousedelighted.com
 0.0.0.0 learnmore.protiviti.com
 0.0.0.0 learntchain.com
-0.0.0.0 learnwithnahid.com
 0.0.0.0 learoydfole.click
 0.0.0.0 leavensenamdar.shop
 0.0.0.0 leavensorbic.shop
@@ -68424,7 +68428,6 @@
 0.0.0.0 metric.nomura.co.jp
 0.0.0.0 metric.northeast.aaa.com
 0.0.0.0 metric.nrma.com.au
-0.0.0.0 metric.nuonuo.com
 0.0.0.0 metric.octanner.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.optum.com
@@ -98604,6 +98607,7 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
+0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -121433,6 +121437,7 @@
 0.0.0.0 xzkqduqxaavac.site
 0.0.0.0 xzkumjdqj.com
 0.0.0.0 xzlzfiseeuxfw.site
+0.0.0.0 xznkjzx.cn
 0.0.0.0 xzphlvnrjgzsw.site
 0.0.0.0 xzq.greenxf.net
 0.0.0.0 xzqpz.com
