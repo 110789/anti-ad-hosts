@@ -14,6 +14,7 @@
 0.0.0.0 0082tv.net
 0.0.0.0 00a39e6dfd.com
 0.0.0.0 00a4722597.com
+0.0.0.0 00bfd200-dpnb2uqcmx3g.edgeone.dev
 0.0.0.0 00e2120672.com
 0.0.0.0 00k456wyh.com
 0.0.0.0 00oo00.com
@@ -7904,6 +7905,7 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -9009,6 +9011,7 @@
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
 0.0.0.0 ad.ohmynews.com
+0.0.0.0 ad.open.api.jihuoniao.com
 0.0.0.0 ad.open.jiguang.cn
 0.0.0.0 ad.ordersuit.info
 0.0.0.0 ad.org.vn
@@ -9055,6 +9058,7 @@
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.report.jihuoniao.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.retargeter.com
 0.0.0.0 ad.rfp.fout.jp
@@ -10715,6 +10719,7 @@
 0.0.0.0 ads-i2.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-i3.xhscdn.com
+0.0.0.0 ads-i3.xhscdn.com.a.bdydns.com
 0.0.0.0 ads-i4.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
@@ -15007,6 +15012,7 @@
 0.0.0.0 allaysnab.shop
 0.0.0.0 allcars.cn
 0.0.0.0 alldatenow.com
+0.0.0.0 alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
 0.0.0.0 alldk.com
 0.0.0.0 allegemagnanimityensue.com
 0.0.0.0 allegianceenableselfish.com
@@ -16297,7 +16303,6 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
-0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -24125,6 +24130,7 @@
 0.0.0.0 brusklylawton.com
 0.0.0.0 bruteportrait.com
 0.0.0.0 brutishlylifevoicing.com
+0.0.0.0 bruvanek-pl.com
 0.0.0.0 brvallsrentacar.eccocar.com
 0.0.0.0 brvelocity.eccocar.com
 0.0.0.0 brvpxpjolggcs.website
@@ -26596,6 +26602,8 @@
 0.0.0.0 cedecancontemporary.com
 0.0.0.0 cedeimprovise.com
 0.0.0.0 cedexis.com
+0.0.0.0 cedrinwestek.net
+0.0.0.0 cedrinwestekai.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 cee2.iteye.com
 0.0.0.0 cee332cc1f.com
@@ -28590,6 +28598,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 cnzzlink.com
+0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-emas.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-sentry.wps.cn
@@ -31615,6 +31624,7 @@
 0.0.0.0 cysd.7kww.net
 0.0.0.0 cysodwprdoejs.online
 0.0.0.0 cysyjeo.pro
+0.0.0.0 cytadela-fundanis.com
 0.0.0.0 cytdmhahgvmur.fun
 0.0.0.0 cytguxjucudjc.online
 0.0.0.0 cytron.videojj.com
@@ -36374,9 +36384,11 @@
 0.0.0.0 doaltariaer.com
 0.0.0.0 doankhqxgwbui.site
 0.0.0.0 dobbomqaokbpw.site
+0.0.0.0 dobra-aktywolnia-pl.com
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 dobrhoovkxoru.website
 0.0.0.0 dobruasemi.pro
+0.0.0.0 doc-fcms.edgeone.dev
 0.0.0.0 doc.admobile.top
 0.0.0.0 doc.cnzz.com
 0.0.0.0 doc.e-statements.app
@@ -41505,6 +41517,7 @@
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -43323,6 +43336,7 @@
 0.0.0.0 ffrmel.gerryweber.com
 0.0.0.0 ffrmwn.musinsa.com
 0.0.0.0 ffskgnxhhnqaf.website
+0.0.0.0 ffsre-dpzou3ijaxzb.edgeone.dev
 0.0.0.0 ffsrxeamzwtsl.website
 0.0.0.0 fftvarabrusqk.website
 0.0.0.0 fftwljklhkigm.site
@@ -44455,6 +44469,9 @@
 0.0.0.0 forthcomingmugged.com
 0.0.0.0 forthrightstudent.pro
 0.0.0.0 forthwithresistsew.com
+0.0.0.0 fortna-wertis.net
+0.0.0.0 fortnawertis-pl.com
+0.0.0.0 fortnawertis.net
 0.0.0.0 fortunate-responsibility.com
 0.0.0.0 fortunateambiguous.com
 0.0.0.0 fortunateharrietrefresh.com
@@ -63201,7 +63218,6 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
-0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -63403,6 +63419,7 @@
 0.0.0.0 logicsfort.com
 0.0.0.0 login.e-ticket.co.jp
 0.0.0.0 logingenerosity.com
+0.0.0.0 loginpages0000-dpf0869el7ik.edgeone.dev
 0.0.0.0 loginrubbishobey.com
 0.0.0.0 loginvsi.actonservice.com
 0.0.0.0 logistics.coyote.com
@@ -63465,6 +63482,7 @@
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logserver.nzxcloud.cn
+0.0.0.0 logservice-asia.agora.io
 0.0.0.0 logservice-dra.platform.dbankcloud.cn
 0.0.0.0 logservice-dra.platform.dbankcloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -67812,7 +67830,6 @@
 0.0.0.0 mato.clanto.cloud
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
-0.0.0.0 matomo.datasanalytics.com
 0.0.0.0 matomo.wanqianyun.cn
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
@@ -78446,6 +78463,7 @@
 0.0.0.0 p6.adkwai.com
 0.0.0.0 p6.tribution.mobi
 0.0.0.0 p66-ad.adkwai.com
+0.0.0.0 p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 0.0.0.0 p66jed4iv.com
 0.0.0.0 p6n0g0ia.xyz
@@ -86284,6 +86302,7 @@
 0.0.0.0 resetcong.shop
 0.0.0.0 resetdigital.co
 0.0.0.0 resetpassword.surepetcare.io
+0.0.0.0 resevpl.shop
 0.0.0.0 reshin.de
 0.0.0.0 residencechalked.com
 0.0.0.0 resideour.com
@@ -87811,6 +87830,7 @@
 0.0.0.0 ru-onrt-stsdk.vivoglobal.com
 0.0.0.0 ru-os-config-appstore.vivoglobal.com
 0.0.0.0 ru-p.vivoglobal.com
+0.0.0.0 ru-pnrt-stsdk.vivoglobal.com
 0.0.0.0 ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 ru-ru.siemensplmevents.com
 0.0.0.0 ru-st-exappupgrade.vivoglobal.com
@@ -88144,6 +88164,7 @@
 0.0.0.0 ryre.cn
 0.0.0.0 rysnxhxpavzct.website
 0.0.0.0 rystadenergy.actonservice.com
+0.0.0.0 rytm-inwestek.com
 0.0.0.0 rytxapieekshh.space
 0.0.0.0 ryufsbqvxtlhu.site
 0.0.0.0 ryujsqssracyc.space
@@ -89563,6 +89584,7 @@
 0.0.0.0 sare25.com
 0.0.0.0 sargas.iad-03.braze.com
 0.0.0.0 sarlykidlesse.shop
+0.0.0.0 sarnadochomir-ai.com
 0.0.0.0 sarov.ws
 0.0.0.0 sarrowgrivois.com
 0.0.0.0 sas.nsm-corp.com
@@ -99105,7 +99127,6 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
-0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -123359,6 +123380,7 @@
 0.0.0.0 ytseotpnuzrdc.site
 0.0.0.0 ytsuptbpkgdq.net
 0.0.0.0 ytsyyey.com
+0.0.0.0 ytterbic-amber-qilwigl2.edgeone.dev
 0.0.0.0 ytunion.com
 0.0.0.0 ytv7335mt.com
 0.0.0.0 ytvfmhi.com
@@ -124715,6 +124737,7 @@
 0.0.0.0 zorquaaeybckx.space
 0.0.0.0 zorseeckoaroa.net
 0.0.0.0 zorvanelixtredomio.pro
+0.0.0.0 zorza-rentura.com
 0.0.0.0 zosteralatency.com
 0.0.0.0 zothbyjsvfcfw.space
 0.0.0.0 zotnkataxyscx.online
