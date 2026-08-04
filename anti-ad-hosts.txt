@@ -1937,6 +1937,7 @@
 0.0.0.0 51la.net
 0.0.0.0 51link.com
 0.0.0.0 51maiwanju.com
+0.0.0.0 51mitu.com
 0.0.0.0 51mld.cn
 0.0.0.0 51mypc.cn
 0.0.0.0 51network.com
@@ -12306,6 +12307,7 @@
 0.0.0.0 ads3-normal-lq.zijieapi.com.queniuiq.com
 0.0.0.0 ads3-normal-lq.zijieapi.com.w.cdngslb.com
 0.0.0.0 ads3-normal.zijieapi.com
+0.0.0.0 ads3-normal.zijieapi.com.queniusz.com
 0.0.0.0 ads3.advance.net
 0.0.0.0 ads3.adviad.com
 0.0.0.0 ads3.blastro.com
@@ -14934,6 +14936,7 @@
 0.0.0.0 alhiop.thehandsome.com
 0.0.0.0 alhkanbodrbve.online
 0.0.0.0 ali-ad.a.yximgs.com
+0.0.0.0 ali-ad.a.yximgs.com.queniukr.com
 0.0.0.0 ali-p2p-v2.pull.yximgs.com
 0.0.0.0 ali-p2p.pull.yximgs.com
 0.0.0.0 ali-pro-origin-pull.kwai.net.iberostar.com
@@ -14979,6 +14982,7 @@
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.cn
 0.0.0.0 alime-pic.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 alimelog.taobao.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
@@ -16859,7 +16863,6 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao8.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9-b.com
 0.0.0.0 api-access.pangolin-sdk-toutiao9.com
-0.0.0.0 api-ad-adapter-mb.wps.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
@@ -16890,6 +16893,7 @@
 0.0.0.0 api-c.hiaiabc.com
 0.0.0.0 api-cfg.52qumao.com
 0.0.0.0 api-client.okvipworldcup.com
+0.0.0.0 api-cloudfalcon.hismarttv.com
 0.0.0.0 api-cn.cdo.heytapmobi.com
 0.0.0.0 api-d.dutils.com
 0.0.0.0 api-d.hiaiabc.com
@@ -17159,6 +17163,7 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.bridgeoos.com
 0.0.0.0 api.britepool.com
+0.0.0.0 api.browser.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bshare.cn
 0.0.0.0 api.bttrack.com
@@ -19968,6 +19973,7 @@
 0.0.0.0 auth-em.hismarttv.com
 0.0.0.0 auth-eu.hismarttv.com
 0.0.0.0 auth-google.site
+0.0.0.0 auth-jp.hismarttv.com
 0.0.0.0 auth-launcher-em.hismarttv.com
 0.0.0.0 auth-launcher-eu.hismarttv.com
 0.0.0.0 auth-launcher-jp.hismarttv.com
@@ -19975,6 +19981,7 @@
 0.0.0.0 auth-launcher-sa.hismarttv.com
 0.0.0.0 auth-na.hismarttv.com
 0.0.0.0 auth-phone-afr.hismarttv.com
+0.0.0.0 auth-phone-ap.hismarttv.com
 0.0.0.0 auth-sa.hismarttv.com
 0.0.0.0 auth.api.gitv.tv
 0.0.0.0 auth.be.sec.miui.com
@@ -25725,6 +25732,7 @@
 0.0.0.0 cars.smartleasing.com.au
 0.0.0.0 carsarace.com
 0.0.0.0 carstat.bitauto.com
+0.0.0.0 cart.net.cn
 0.0.0.0 cart8draw.com
 0.0.0.0 carte.fleet-page.total.fr
 0.0.0.0 cartelsalsa.com
@@ -28080,6 +28088,7 @@
 0.0.0.0 clockwiseleaderfilament.com
 0.0.0.0 clockwisequillwilfrid.com
 0.0.0.0 clog.miguvideo.com
+0.0.0.0 clog.skysrt.com
 0.0.0.0 clog.tanshudata.com
 0.0.0.0 clogcatsabrupt.com
 0.0.0.0 cloggyredly.shop
@@ -28489,6 +28498,7 @@
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
+0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 cname.crank-in.net
 0.0.0.0 cname.ebis.folio-sec.com
@@ -33233,6 +33243,7 @@
 0.0.0.0 data-ssl.stepstone.fr
 0.0.0.0 data-ssl.stepstone.nl
 0.0.0.0 data-ssl.stepstone.pl
+0.0.0.0 data-track-global.yingxiong.com
 0.0.0.0 data-track.yingxiong.com
 0.0.0.0 data.2ask.blue.com.hk
 0.0.0.0 data.3975.com
@@ -34774,6 +34785,7 @@
 0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detaillog-global-dual.coolzcloud.com
+0.0.0.0 detaillog-global.coolccloud.com
 0.0.0.0 detaillog-global.coolzcloud.com
 0.0.0.0 detailroi.com
 0.0.0.0 details-update.com
@@ -35093,6 +35105,7 @@
 0.0.0.0 dhfs-id.heytapimage.com
 0.0.0.0 dhfs-in.heytapimage.com
 0.0.0.0 dhfs-my.heytapimage.com
+0.0.0.0 dhfs-ph.heytapimage.com
 0.0.0.0 dhfshdmuvezfhm.com
 0.0.0.0 dhgdp.cn
 0.0.0.0 dhgnzynmufgpc.site
@@ -39456,7 +39469,6 @@
 0.0.0.0 ef9i0f3oev47.com
 0.0.0.0 efadfubcqalcr.club
 0.0.0.0 efadyz.smartbuyglasses.co.nz
-0.0.0.0 efangcdn.com
 0.0.0.0 efaqipresgode.website
 0.0.0.0 efbdfbvpsmngh.site
 0.0.0.0 efbenj.adorebeauty.com.au
@@ -41516,6 +41528,7 @@
 0.0.0.0 etzfcwsafuw.com
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
+0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-api.swrve.com
 0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
@@ -41528,6 +41541,7 @@
 0.0.0.0 eu-p.vivoglobal.com
 0.0.0.0 eu-pn2.adserver.yahoo.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
+0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
 0.0.0.0 eu-stsdk.vivoglobal.com
@@ -45662,6 +45676,7 @@
 0.0.0.0 g33ktr4ck.com
 0.0.0.0 g33tr4c3r.com
 0.0.0.0 g3m92egwo.com
+0.0.0.0 g3user.com
 0.0.0.0 g4.iqilu.com
 0.0.0.0 g4p.redtram.com
 0.0.0.0 g4yk4cyyw.com
@@ -52080,6 +52095,7 @@
 0.0.0.0 hzzyhl.jobs.ch
 0.0.0.0 i-ad.adwo.com
 0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 i-fk.cn
 0.0.0.0 i-hl.snssdk.com
 0.0.0.0 i-lq.snssdk.com
@@ -60240,6 +60256,8 @@
 0.0.0.0 kyxonasaiwycf.site
 0.0.0.0 kyywpllomeljh.site
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com
+0.0.0.0 kz-ort-stsdk.vivoglobal.com
+0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 kzagvdulumvgl.site
@@ -63153,6 +63171,7 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-klink.zijieapi.com
 0.0.0.0 log-lb.skyperfectv.co.jp
+0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log-pub-hk.aoshitang.com
@@ -63482,7 +63501,6 @@
 0.0.0.0 logsdk.qq.com
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 logserver.nzxcloud.cn
-0.0.0.0 logservice-asia.agora.io
 0.0.0.0 logservice-dra.platform.dbankcloud.cn
 0.0.0.0 logservice-dra.platform.dbankcloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -70233,6 +70251,7 @@
 0.0.0.0 metrics.yola.com
 0.0.0.0 metrics.youandyourwedding.co.uk
 0.0.0.0 metrics.yourlexusdealer.com
+0.0.0.0 metrics.yy.com
 0.0.0.0 metrics.zacks.com
 0.0.0.0 metrics0.com
 0.0.0.0 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
@@ -77003,6 +77022,7 @@
 0.0.0.0 openapi-smsp.getui.com
 0.0.0.0 openapi.cymera.com
 0.0.0.0 openapi.toponad.com
+0.0.0.0 openapi.vip.ptqy.gitv.tv
 0.0.0.0 openapi.yoyi.com.cn
 0.0.0.0 openbook.net
 0.0.0.0 openbox.mobilem.360.cn
@@ -77576,6 +77596,7 @@
 0.0.0.0 ottadvisors.com
 0.0.0.0 ottawa-content.cresa.com
 0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 otto5loki.com
 0.0.0.0 ottupdate.api.mgtv.com
 0.0.0.0 ottupdate.api.nunaios.com
@@ -78256,6 +78277,7 @@
 0.0.0.0 p2-ad.adbkwai.com
 0.0.0.0 p2-ad.adkwai.com
 0.0.0.0 p2-ad.adukwai.com
+0.0.0.0 p2-ad.adukwai.com.queniuiy.com
 0.0.0.0 p2-ad.byteimg.com
 0.0.0.0 p2-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p2-jx.adukwai.com
@@ -91853,6 +91875,7 @@
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 sg-go.experian.com
+0.0.0.0 sg-log-emagzal.lazada.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-b-hb.rayjump.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-c-hb.rayjump.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
@@ -97217,6 +97240,7 @@
 0.0.0.0 sovietsite.com
 0.0.0.0 sovrn.com
 0.0.0.0 sovuyibacinnb.space
+0.0.0.0 sowa-rentanis.net
 0.0.0.0 sowa.carhartt.com
 0.0.0.0 sowlettuce.com
 0.0.0.0 sowpixnymnoxw.space
@@ -99366,6 +99390,7 @@
 0.0.0.0 statres.quickapp.cn
 0.0.0.0 stats-bq.stylight.net
 0.0.0.0 stats-cdn.polyspeak.ai
+0.0.0.0 stats-cdn.polyspeak.ai.cdn.dnsv1.com
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-factory.digitregroup.io
@@ -105192,6 +105217,7 @@
 0.0.0.0 tommytransportbeetroot.com
 0.0.0.0 tomonline-inc.com
 0.0.0.0 tomorrowlemonade.com
+0.0.0.0 ton-staking-site.vercel.app
 0.0.0.0 tonefuse.com
 0.0.0.0 tonemedia.com
 0.0.0.0 tongatyee.shop
@@ -106789,6 +106815,7 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
+0.0.0.0 trace.seeyouyima.com
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.ynet.com
@@ -107137,6 +107164,7 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.chat.bilibili.com
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.curama.jp
@@ -110475,6 +110503,7 @@
 0.0.0.0 ulmqfhgfjrxbj.site
 0.0.0.0 ulny.cn
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulog-sdk.ksapisrv.com
 0.0.0.0 ulog.gifshow.com
 0.0.0.0 ulog.imap.baidu.com
 0.0.0.0 ulog.ksapisrv.com
@@ -111351,6 +111380,7 @@
 0.0.0.0 urban-signal.pro
 0.0.0.0 urban.adspirit.de
 0.0.0.0 urbanairship.com
+0.0.0.0 urbanfind.club
 0.0.0.0 urbanfluxhub.pro
 0.0.0.0 urbanlaurel.com
 0.0.0.0 urchin.5173.com
@@ -112522,6 +112552,7 @@
 0.0.0.0 v5-ex-reading-ad.qznovelvod.com
 0.0.0.0 v5-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-bjtc-reading-ad.qznovelvod.com
+0.0.0.0 v5-se-ex-mc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5.cnzz.com
@@ -112740,6 +112771,7 @@
 0.0.0.0 varnishoverprotective.com
 0.0.0.0 varshacundy.com
 0.0.0.0 vartoken.com
+0.0.0.0 vartomir-pl.com
 0.0.0.0 varvelabrus.shop
 0.0.0.0 varyingwolfsmile.com
 0.0.0.0 varypollintelligent.com
@@ -124100,7 +124132,6 @@
 0.0.0.0 zeepoostey.net
 0.0.0.0 zeerat.com
 0.0.0.0 zefpks.dealdonkey.com
-0.0.0.0 zegarkirepliki.pl
 0.0.0.0 zeguklgrjilli.space
 0.0.0.0 zeigraim.com
 0.0.0.0 zejyoelgljenc.site
