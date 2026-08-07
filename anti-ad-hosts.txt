@@ -139,6 +139,7 @@
 0.0.0.0 094kk.com
 0.0.0.0 0980b6e8fe.com
 0.0.0.0 098d7a8fec.com
+0.0.0.0 098yjuio-dpwxvxwxcuwy.edgeone.dev
 0.0.0.0 09e07385f6.com
 0.0.0.0 09qin0pc.xyz
 0.0.0.0 0a66kw9r8.com
@@ -275,6 +276,7 @@
 0.0.0.0 1.modzj.net
 0.0.0.0 1.nanrenwo.net
 0.0.0.0 1.oadz.com
+0.0.0.0 1.pncdn.cn
 0.0.0.0 1.proewildfire.cn
 0.0.0.0 1.qjhm.net
 0.0.0.0 1.shopit.cn
@@ -10742,6 +10744,7 @@
 0.0.0.0 ads-integration.rustore.ru
 0.0.0.0 ads-jp.tiktok.com
 0.0.0.0 ads-lb.serving-sys.cn
+0.0.0.0 ads-leona-s1.xhscdn.com
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0 ads-log.huolala.cn
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
@@ -15002,7 +15005,6 @@
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.cn
 0.0.0.0 alime-pic.oss-cn-hangzhou.aliyuncs.com
-0.0.0.0 alimelog.taobao.com
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 aliningsows.shop
 0.0.0.0 alinks.outcomes4me.com
@@ -29003,6 +29005,7 @@
 0.0.0.0 combcompetition.com
 0.0.0.0 combgun.com
 0.0.0.0 combia-tellector.com
+0.0.0.0 combined-silver-0x5s9uu5.edgeone.dev
 0.0.0.0 combinedcanes.com
 0.0.0.0 comblealgin.shop
 0.0.0.0 combotag.com
@@ -43603,6 +43606,7 @@
 0.0.0.0 fifubhqxlrokg.online
 0.0.0.0 figglefodge.com
 0.0.0.0 fight.offtherecord.com
+0.0.0.0 fighter-shop.shop
 0.0.0.0 fighterboks.shop
 0.0.0.0 fighteres.shop
 0.0.0.0 fighterspor.shop
@@ -43644,6 +43648,7 @@
 0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 file.uhsea.com
 0.0.0.0 file3size.com
+0.0.0.0 filei.top
 0.0.0.0 filemobile.actonservice.com
 0.0.0.0 filerit.com
 0.0.0.0 files-downloads.com
@@ -53781,7 +53786,6 @@
 0.0.0.0 imdns.hpplay.cn
 0.0.0.0 imdprmebrbbbq.space
 0.0.0.0 imediaaudiences.com
-0.0.0.0 imediacodec.com
 0.0.0.0 imeds.ero-advertising.com
 0.0.0.0 imeetcentral.pgi.com
 0.0.0.0 imeijiajia.com
@@ -63412,7 +63416,6 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
-0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -77816,6 +77819,7 @@
 0.0.0.0 ottadvisors.com
 0.0.0.0 ottawa-content.cresa.com
 0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 otto5loki.com
 0.0.0.0 ottupdate.api.mgtv.com
 0.0.0.0 ottupdate.api.nunaios.com
@@ -78703,7 +78707,6 @@
 0.0.0.0 p6.adkwai.com
 0.0.0.0 p6.tribution.mobi
 0.0.0.0 p66-ad.adkwai.com
-0.0.0.0 p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 0.0.0.0 p66jed4iv.com
 0.0.0.0 p6n0g0ia.xyz
@@ -112912,6 +112915,7 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
+0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
@@ -115537,6 +115541,8 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -122738,6 +122744,7 @@
 0.0.0.0 ycy.hyjyjc.com
 0.0.0.0 yczl5qg8jr.com
 0.0.0.0 yczpwjtvggloo.online
+0.0.0.0 yd.lyjt.cc
 0.0.0.0 yd2oq9bo.xyz
 0.0.0.0 ydbcct.nikigolf.jp
 0.0.0.0 ydbeuq.superpharm.pl
