@@ -2526,7 +2526,6 @@
 0.0.0.0 75rakcovr.com
 0.0.0.0 75to.com
 0.0.0.0 75wdm82a69.com
-0.0.0.0 75ww.com
 0.0.0.0 762dd8340d.com
 0.0.0.0 7631.com
 0.0.0.0 7642cfa09a.com
@@ -2746,7 +2745,6 @@
 0.0.0.0 80juqing.com
 0.0.0.0 80s.qucaigg.com
 0.0.0.0 80vn.cn
-0.0.0.0 80zk.cn
 0.0.0.0 8104863542.com
 0.0.0.0 811b27ab9f.com
 0.0.0.0 812346cb13.com
@@ -9078,6 +9076,7 @@
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.report.jihuoniao.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.retargeter.com
 0.0.0.0 ad.rfp.fout.jp
@@ -16344,7 +16343,6 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
-0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -19531,6 +19529,7 @@
 0.0.0.0 aspirinleveloriginally.com
 0.0.0.0 asprnrwmfvxkv.website
 0.0.0.0 aspservice.jp
+0.0.0.0 aspwg.cn
 0.0.0.0 asqconn.com
 0.0.0.0 asqdfuhwian.com
 0.0.0.0 asrety.com
@@ -24936,7 +24935,6 @@
 0.0.0.0 byuh78fy2m.com
 0.0.0.0 byvfjdjczibtq.online
 0.0.0.0 byxcbk.ipekevi.com
-0.0.0.0 byyz.cn
 0.0.0.0 bz13t74nt.com
 0.0.0.0 bzabwir.icu
 0.0.0.0 bzaxgk.ecctur.com
@@ -33657,7 +33655,6 @@
 0.0.0.0 data.fans.williamsf1.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.fundacion.realmadrid.org
-0.0.0.0 data.game.xiaomi.com
 0.0.0.0 data.gc.qantas.com.au
 0.0.0.0 data.giftcards.dev.cjmadobe.com
 0.0.0.0 data.glamour.ru
@@ -36269,6 +36266,7 @@
 0.0.0.0 dload.qd.qingting.fm
 0.0.0.0 dloeloqua.danskespil.dk
 0.0.0.0 dlog-config.uu.cc
+0.0.0.0 dlog.wanmei.com
 0.0.0.0 dlogs.bwton.com
 0.0.0.0 dlohjhkldludr.space
 0.0.0.0 dlooqrhebkjoh.cloudfront.net
@@ -43403,7 +43401,6 @@
 0.0.0.0 feedback.cn.ronghub.com
 0.0.0.0 feedback.imsmetals.com
 0.0.0.0 feedback.lifeguardarena.com
-0.0.0.0 feedback.miui.com
 0.0.0.0 feedback.nslsc-csnpe.ca
 0.0.0.0 feedback.uc.cn
 0.0.0.0 feedback.umeng.com
@@ -45939,7 +45936,6 @@
 0.0.0.0 g33ktr4ck.com
 0.0.0.0 g33tr4c3r.com
 0.0.0.0 g3m92egwo.com
-0.0.0.0 g3user.com
 0.0.0.0 g4.iqilu.com
 0.0.0.0 g4p.redtram.com
 0.0.0.0 g4yk4cyyw.com
@@ -57037,6 +57033,7 @@
 0.0.0.0 j1bla75rck.com
 0.0.0.0 j1s956aee8.com
 0.0.0.0 j2.979067.com
+0.0.0.0 j2c03hoppk-default-cn.rum.aliyuncs.com
 0.0.0.0 j2fu64j4e.com
 0.0.0.0 j2i0.mathon.fr
 0.0.0.0 j3.dthznc.com
@@ -68268,7 +68265,6 @@
 0.0.0.0 mato.clanto.cloud
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
-0.0.0.0 matomo.datasanalytics.com
 0.0.0.0 matomo.wanqianyun.cn
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
@@ -81696,6 +81692,7 @@
 0.0.0.0 polaris3-normal-lf.zijieapi.com
 0.0.0.0 polaris3-normal-lq.zijieapi.com
 0.0.0.0 polaris5-normal-gl2.zijieapi.com
+0.0.0.0 polaris5-normal-hl.zijieapi.com
 0.0.0.0 polaris5-normal-lf.zijieapi.com
 0.0.0.0 polaris5-normal-lq.zijieapi.com
 0.0.0.0 polaris5-normal-xh.zijieapi.com
@@ -81976,6 +81973,7 @@
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
 0.0.0.0 posthog.casinoplus.top
+0.0.0.0 posthog.casinoplus.top.eo.dnse3.com
 0.0.0.0 postinvent.com
 0.0.0.0 postmenlagune.shop
 0.0.0.0 postponeclement.com
@@ -82818,6 +82816,7 @@
 0.0.0.0 promoteconditionerkeyboard.com
 0.0.0.0 promotion-en.xmeye.net
 0.0.0.0 promotion-partner.kuaishou.com
+0.0.0.0 promotion-quicker.jftechsoft.com
 0.0.0.0 promotion.gomlab.com
 0.0.0.0 promotion.lginnotek.com
 0.0.0.0 promotion.lindt.az
@@ -91934,6 +91933,7 @@
 0.0.0.0 semplesapolune.com
 0.0.0.0 semqraso.net
 0.0.0.0 semywtuvmzujq.space
+0.0.0.0 senbiaojita.com
 0.0.0.0 send.hollandcasino.nl
 0.0.0.0 send.merit.me
 0.0.0.0 send.preply.com
@@ -92511,6 +92511,7 @@
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 sg-go.experian.com
+0.0.0.0 sg-log-emagzal.lazada.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-b-hb.rayjump.com
 0.0.0.0 sg-new-ssplib-asia-southeast1-c-hb.rayjump.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
@@ -99800,7 +99801,6 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
-0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -104302,7 +104302,6 @@
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.boxt.co.uk
 0.0.0.0 telemetry.bydata.com
-0.0.0.0 telemetry.canva.cn
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 telemetry.commonspirit.org
@@ -105898,7 +105897,6 @@
 0.0.0.0 tommytransportbeetroot.com
 0.0.0.0 tomonline-inc.com
 0.0.0.0 tomorrowlemonade.com
-0.0.0.0 ton-staking-site.vercel.app
 0.0.0.0 tonefuse.com
 0.0.0.0 tonemedia.com
 0.0.0.0 tongatyee.shop
@@ -106301,6 +106299,7 @@
 0.0.0.0 tr-bouncer.com
 0.0.0.0 tr-business.vodafone.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
+0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-monday.xyz
@@ -107847,6 +107846,7 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.chat.bilibili.com
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.curama.jp
@@ -115963,8 +115963,6 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -122254,7 +122252,9 @@
 0.0.0.0 xmyvhu.soxo.pl
 0.0.0.0 xmzppziqajevl.site
 0.0.0.0 xn--2qu92fhtx4ff.ink
+0.0.0.0 xn--2qu92fhtxsxexqab.xn--fiqs8s
 0.0.0.0 xn--2qux23c9ziyrq.icu
+0.0.0.0 xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s
 0.0.0.0 xn--6kr65fctg2t4e.com
 0.0.0.0 xn--adspace-kvg.ero-advertising.com
 0.0.0.0 xn--czrshy5v7kb.cc
@@ -122299,6 +122299,7 @@
 0.0.0.0 xn--wxtr44c.video
 0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 xn--wxtr9fwyxk9c.top
+0.0.0.0 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0 xn--xhq9mt12cf5v.ink
 0.0.0.0 xn--xhq9mt12cf5v.website
 0.0.0.0 xn--yh4bx88a.com
