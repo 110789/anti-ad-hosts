@@ -7858,6 +7858,7 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
+0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -25536,6 +25537,7 @@
 0.0.0.0 caterpillarsigns.coversandall.com
 0.0.0.0 caterpillarsigns.coversandall.com.au
 0.0.0.0 caterpillarsigns.coversandall.eu
+0.0.0.0 catfront.dianping.com
 0.0.0.0 cathaytrash.com
 0.0.0.0 cathedralintheirbri.com
 0.0.0.0 catherineagnesmj.com
@@ -28001,7 +28003,6 @@
 0.0.0.0 cmesgpqq8z.com
 0.0.0.0 cmfads.com
 0.0.0.0 cmflinks.provesio.com
-0.0.0.0 cmgadx.com
 0.0.0.0 cmgfbg.billetreduc.com
 0.0.0.0 cmhmpr.lolaliza.com
 0.0.0.0 cmiupqlouwnnw.website
@@ -34750,6 +34751,8 @@
 0.0.0.0 dialogue.nl.mazda.be
 0.0.0.0 dialogue32.com
 0.0.0.0 diamages.carte-gr.total.fr
+0.0.0.0 diament-zyskura.com
+0.0.0.0 diamentzyskura-pl.com
 0.0.0.0 diameter94.com
 0.0.0.0 diamylthills.shop
 0.0.0.0 dian500.com
@@ -35924,6 +35927,7 @@
 0.0.0.0 doankhqxgwbui.site
 0.0.0.0 dobbomqaokbpw.site
 0.0.0.0 dobra-aktywolnia-pl.com
+0.0.0.0 dobraaktywolnia-ai.com
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 dobrhoovkxoru.website
 0.0.0.0 dobruasemi.pro
@@ -48265,6 +48269,7 @@
 0.0.0.0 gylavpnvbaacd.online
 0.0.0.0 gylor.xyz
 0.0.0.0 gylxwpwabgp.com
+0.0.0.0 gym-fitness.club
 0.0.0.0 gymsports.homes
 0.0.0.0 gynietrooe.com
 0.0.0.0 gyoqnunyfy.com
@@ -51056,6 +51061,7 @@
 0.0.0.0 hzzyhl.jobs.ch
 0.0.0.0 i-ad.adwo.com
 0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 i-fk.cn
 0.0.0.0 i-hl.snssdk.com
 0.0.0.0 i-lq.snssdk.com
@@ -55104,6 +55110,8 @@
 0.0.0.0 isjohgyixswow.com
 0.0.0.0 isjoui.cainz.com
 0.0.0.0 iskenneth.com
+0.0.0.0 iskra-inwestek.com
+0.0.0.0 iskra-inwestek.net
 0.0.0.0 iskyworker.com
 0.0.0.0 islamiclyricallyvariable.com
 0.0.0.0 islandssouth.com
@@ -69263,7 +69271,6 @@
 0.0.0.0 minklemonade.com
 0.0.0.0 minksympathyindoors.com
 0.0.0.0 minningsutu.com
-0.0.0.0 minor-api.mihoyo.com
 0.0.0.0 minorcabaganda.shop
 0.0.0.0 minorcattle.com
 0.0.0.0 minotaur107.com
@@ -71496,6 +71503,7 @@
 0.0.0.0 nadscdn.wuaiso.com
 0.0.0.0 nadvideo.baidu.com
 0.0.0.0 nadvideo2.baidu.com
+0.0.0.0 nadziejazyskunai.com
 0.0.0.0 naedyudpxzmgs.online
 0.0.0.0 naegaitbestir.com
 0.0.0.0 nafmxc.1083.fr
@@ -71576,6 +71584,7 @@
 0.0.0.0 naos.ink
 0.0.0.0 nap5k.com
 0.0.0.0 napbuskaafntph.com
+0.0.0.0 napedluxoriaai.com
 0.0.0.0 nappyattack.com
 0.0.0.0 nappyneck.com
 0.0.0.0 nappyonsetstiffness.com
@@ -72458,6 +72467,7 @@
 0.0.0.0 nha1vopn0j.com
 0.0.0.0 nhatsadwafljs.site
 0.0.0.0 nhatvip.mobi
+0.0.0.0 nhcdn.cn
 0.0.0.0 nhcgucgrsnupg.online
 0.0.0.0 nhcobebu.com
 0.0.0.0 nhdalwapuz.com
@@ -75298,6 +75308,7 @@
 0.0.0.0 openapi-smsp.getui.com
 0.0.0.0 openapi.cymera.com
 0.0.0.0 openapi.toponad.com
+0.0.0.0 openapi.vip.ptqy.gitv.tv
 0.0.0.0 openapi.yoyi.com.cn
 0.0.0.0 openbook.net
 0.0.0.0 openbox.mobilem.360.cn
@@ -79352,6 +79363,7 @@
 0.0.0.0 polavionex-pro.com
 0.0.0.0 pole.6rooms.com
 0.0.0.0 poleynsset.com
+0.0.0.0 polfundai.com
 0.0.0.0 polhvf.bootbarn.com
 0.0.0.0 policeair.com
 0.0.0.0 policy.jd.com
@@ -98148,7 +98160,6 @@
 0.0.0.0 steamabundanceslope.com
 0.0.0.0 steamers77.com
 0.0.0.0 steamierazour.shop
-0.0.0.0 steamproxy.net
 0.0.0.0 steamtraffic.com
 0.0.0.0 stedoquin.pro
 0.0.0.0 steel-savings.com
@@ -103169,7 +103180,6 @@
 0.0.0.0 toto.pandasuite.io
 0.0.0.0 totymanglave.com
 0.0.0.0 tou100.com
-0.0.0.0 touch-moblie.com
 0.0.0.0 touch.multitaction.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 touch.thenavisway.com
@@ -108879,7 +108889,6 @@
 0.0.0.0 uplog.inews.qq.com
 0.0.0.0 uplog.qbox.me
 0.0.0.0 uploopmidair.com
-0.0.0.0 upltv.com
 0.0.0.0 uplyxzkvncinj.space
 0.0.0.0 uplze.code.weddingeeos.com
 0.0.0.0 upnoqulclouar.space
@@ -110204,7 +110213,10 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
+0.0.0.0 v95-aw-reading-ad.qznovelvod.com
+0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
+0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
 0.0.0.0 va-endpoint.com
 0.0.0.0 va.gxpan.cn
@@ -111501,7 +111513,6 @@
 0.0.0.0 vn88.mobi
 0.0.0.0 vnaeqsorsffzh.online
 0.0.0.0 vnakjojlazcpm.online
-0.0.0.0 vnclip.net
 0.0.0.0 vndayuqoyai.com
 0.0.0.0 vndhbthmtxgzo.space
 0.0.0.0 vndrosaaypjvu.website
@@ -113740,6 +113751,7 @@
 0.0.0.0 wescam.info
 0.0.0.0 wesicuros.com
 0.0.0.0 wesiedu.com
+0.0.0.0 weslomikai.com
 0.0.0.0 west.ads.simpli.fi
 0.0.0.0 west001.com
 0.0.0.0 westads.simpli.fi
@@ -119702,7 +119714,6 @@
 0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 ydkxuqwwpzivm.space
 0.0.0.0 ydlz.k859n.cn
-0.0.0.0 ydmob.com
 0.0.0.0 ydnrwntqtikfg.online
 0.0.0.0 ydosfw.filippa-k.com
 0.0.0.0 ydpushserver.youdao.com
@@ -122357,6 +122368,8 @@
 0.0.0.0 zyq2.destinia.sk
 0.0.0.0 zyqgwdrrrrrmm.online
 0.0.0.0 zyrenmint.pro
+0.0.0.0 zyskonex-ai.com
+0.0.0.0 zyskonex-pl.com
 0.0.0.0 zyskont.pro
 0.0.0.0 zyswiurots.com
 0.0.0.0 zyvbcstcltidm.online
