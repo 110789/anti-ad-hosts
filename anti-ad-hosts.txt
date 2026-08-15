@@ -463,6 +463,7 @@
 0.0.0.0 125.net.jumia.co.ke
 0.0.0.0 12551-1311572332.cos.ap-shanghai.myqcloud.com
 0.0.0.0 125700.shop
+0.0.0.0 126.cn
 0.0.0.0 127.irs01.com
 0.0.0.0 127e2202ec.com
 0.0.0.0 12915784.care.sanvello.com
@@ -7873,7 +7874,6 @@
 0.0.0.0 abtao.wang
 0.0.0.0 abtaurosa.club
 0.0.0.0 abtest-api-data-sg.hoyoverse.com
-0.0.0.0 abtest-api-data.mihoyo.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -14436,7 +14436,9 @@
 0.0.0.0 ahzygy.thesteelshop.com
 0.0.0.0 ai-drevneinvesteringsplatforme.pro
 0.0.0.0 ai-factory-app.pro
+0.0.0.0 ai-fiversity.com
 0.0.0.0 ai-nexork.com
+0.0.0.0 ai-polarisx.com
 0.0.0.0 ai-poweredinvestmentplatforms.pro
 0.0.0.0 ai-pro-iplex.com
 0.0.0.0 ai-proinvest-polska.com
@@ -16791,7 +16793,6 @@
 0.0.0.0 api-analytics-us3.zepp.com
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.metaps.com
-0.0.0.0 api-analytics.zepp.com
 0.0.0.0 api-app.ants.vn
 0.0.0.0 api-app.coocaa.ottcn.com
 0.0.0.0 api-auth.flysleep.cn
@@ -17166,6 +17167,7 @@
 0.0.0.0 api.fastmoonclimbed.com
 0.0.0.0 api.fc.mob.com
 0.0.0.0 api.fd.mob.com
+0.0.0.0 api.firwinds.site
 0.0.0.0 api.flurry.com
 0.0.0.0 api.flygame.io
 0.0.0.0 api.fpjs.io
@@ -25379,6 +25381,9 @@
 0.0.0.0 capellaummps.shop
 0.0.0.0 capeplayer.com
 0.0.0.0 caperedlevi.com
+0.0.0.0 capexvision-ai.com
+0.0.0.0 capexvision-ai.net
+0.0.0.0 capexvisionai.net
 0.0.0.0 capi.connatix.com
 0.0.0.0 capitalflux-system.pro
 0.0.0.0 capitalistsplitting.com
@@ -32831,6 +32836,7 @@
 0.0.0.0 daringsupport.com
 0.0.0.0 dariolunus.com
 0.0.0.0 dariusgitana.com
+0.0.0.0 dark-brook-fd40.astotgpqlekgiky.workers.dev
 0.0.0.0 dark-utilities.me
 0.0.0.0 dark-utilities.pw
 0.0.0.0 dark-utilities.xyz
@@ -40983,6 +40989,8 @@
 0.0.0.0 et3lc8yoe.com
 0.0.0.0 eta.animenewsnetwork.com
 0.0.0.0 etahub.com
+0.0.0.0 etapcorelix-ai.com
+0.0.0.0 etapcorelix-pl.com
 0.0.0.0 etbbvbulyhyyo.space
 0.0.0.0 etbtomrowbmji.website
 0.0.0.0 etc.jiguangzhuisu.com
@@ -41085,7 +41093,6 @@
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-api.swrve.com
-0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -43231,6 +43238,7 @@
 0.0.0.0 fiu07101kl.com
 0.0.0.0 fivalgsy.com
 0.0.0.0 five.partner.archive-it.org
+0.0.0.0 fiversitypl.net
 0.0.0.0 fivesidedsquare.com
 0.0.0.0 fiwcqwwppmmzh.online
 0.0.0.0 fiwekmyzlnvjx.site
@@ -44346,11 +44354,13 @@
 0.0.0.0 freshesunwarp.com
 0.0.0.0 freshet40.top
 0.0.0.0 freshforestroad.com
+0.0.0.0 freshhomewarehouse.shop
 0.0.0.0 freshlyhuman.com
 0.0.0.0 freshmanhow.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 freshplum.com
 0.0.0.0 freshrelevance.com
+0.0.0.0 freshvaluewarehouse.shop
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 frestacero.com
 0.0.0.0 fretizeninut.shop
@@ -44661,6 +44671,9 @@
 0.0.0.0 functionswith5555.net
 0.0.0.0 fundamentalobjected.com
 0.0.0.0 fundektris.pro
+0.0.0.0 fundelaris-ai.net
+0.0.0.0 fundelaris-pl.com
+0.0.0.0 fundelarisai.com
 0.0.0.0 fundescended.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fundraiserprestigedescent.com
@@ -48206,6 +48219,7 @@
 0.0.0.0 gtzpic.opodo.co.uk
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 gu4xxpoe9.com
+0.0.0.0 guance.com
 0.0.0.0 guang.sdsgwy.com
 0.0.0.0 guang1.zhakao.cn
 0.0.0.0 guanggaoad.youku.com
@@ -48482,6 +48496,7 @@
 0.0.0.0 gylor.xyz
 0.0.0.0 gylxwpwabgp.com
 0.0.0.0 gym-fitness.club
+0.0.0.0 gymglams.top
 0.0.0.0 gymsports.homes
 0.0.0.0 gynietrooe.com
 0.0.0.0 gyoqnunyfy.com
@@ -50264,6 +50279,7 @@
 0.0.0.0 home-you.ink
 0.0.0.0 home.edm.globalsources.com
 0.0.0.0 home.usg.com
+0.0.0.0 homebargainmarket.shop
 0.0.0.0 homebizplaza.com
 0.0.0.0 homecareresources.rosemarksystem.com
 0.0.0.0 homeeshbecom.org
@@ -51655,6 +51671,7 @@
 0.0.0.0 icunvveszpzxa.online
 0.0.0.0 icws.jb51.net
 0.0.0.0 icxyqoonmogdn.online
+0.0.0.0 icy-brown-yrznyes4.edgeone.dev
 0.0.0.0 icyassimilateparchment.com
 0.0.0.0 icyporno.com
 0.0.0.0 icywinter.com
@@ -58556,6 +58573,9 @@
 0.0.0.0 klt2ojvew1.com
 0.0.0.0 kltjbnfjmnh.com
 0.0.0.0 kltzthsxrdsug.website
+0.0.0.0 klucz-zyskorek-ai.com
+0.0.0.0 kluczzyskorek-ai.com
+0.0.0.0 kluczzyskorek.net
 0.0.0.0 kluglfneqqbjp.website
 0.0.0.0 klutzestiming.com
 0.0.0.0 klutzy-minimum.pro
@@ -58917,7 +58937,10 @@
 0.0.0.0 krtnyognzagow.online
 0.0.0.0 krubutedessan.com
 0.0.0.0 krudavmbgnwrc.website
+0.0.0.0 kruk-zarobin.com
+0.0.0.0 kruk-zarobin.net
 0.0.0.0 krukipper.com
+0.0.0.0 krukzarobinai.com
 0.0.0.0 krumanunsmote.com
 0.0.0.0 kruujzqylnfpi.website
 0.0.0.0 kruvestalsystem.pro
@@ -59887,6 +59910,7 @@
 0.0.0.0 lczmrhvmdqbyp.website
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
+0.0.0.0 ld-analytics.ldycdn.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
 0.0.0.0 ldbwxo.cn
@@ -73892,6 +73916,9 @@
 0.0.0.0 nurseryillnesssensation.com
 0.0.0.0 nurseryinflectedshare.com
 0.0.0.0 nurserylucyparting.com
+0.0.0.0 nurtowin-ai.com
+0.0.0.0 nurtowinai.com
+0.0.0.0 nurtowinpl.net
 0.0.0.0 nurture.mylivingvoice.com
 0.0.0.0 nusatoyota.co.id
 0.0.0.0 nuseek.com
@@ -96375,6 +96402,7 @@
 0.0.0.0 ssacdn.com
 0.0.0.0 ssads.osdn.com
 0.0.0.0 ssafzpcia.com
+0.0.0.0 ssai-ads.api.leiniao.com
 0.0.0.0 ssai2-ads.api.leiniao.com
 0.0.0.0 ssb-sgp.smartadserver.com
 0.0.0.0 ssb-us.smartadserver.com
@@ -97519,6 +97547,7 @@
 0.0.0.0 stat2.corp.56.com
 0.0.0.0 stat2.deepinstall.com
 0.0.0.0 stat2.openinstall.io
+0.0.0.0 stat2.pixpin.cn
 0.0.0.0 stat24.com
 0.0.0.0 stat24.ru
 0.0.0.0 stat6.y.qq.com
@@ -110388,6 +110417,7 @@
 0.0.0.0 uvcourse.net
 0.0.0.0 uvd9re60w.com
 0.0.0.0 uve.weibo.com
+0.0.0.0 uvex-sklep.club
 0.0.0.0 uvfckyovekkqh.space
 0.0.0.0 uvgxhu.ezgif.com
 0.0.0.0 uvgxhu.sharemods.com
@@ -113305,6 +113335,7 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
+0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
 0.0.0.0 wangzhan5.com
@@ -117818,6 +117849,7 @@
 0.0.0.0 www.silkroadfuturesdesk.pro
 0.0.0.0 www.silnagieldownia.pro
 0.0.0.0 www.silnyfundalis.pro
+0.0.0.0 www.silurian.cn
 0.0.0.0 www.sin.ero-advertising.com
 0.0.0.0 www.sincorrabtcv8.pro
 0.0.0.0 www.sintrelonix.pro
@@ -118316,6 +118348,7 @@
 0.0.0.0 www.zentaykuro.pro
 0.0.0.0 www.zevriocapture-pro.com
 0.0.0.0 www.zhidian3g.cn
+0.0.0.0 www.zhikey.com
 0.0.0.0 www.zhuangjizhuli.net
 0.0.0.0 www.zhzzx.com
 0.0.0.0 www.ziraatyatirimborsahesabi.pro
@@ -120098,6 +120131,9 @@
 0.0.0.0 xysqpqqgzxiuk.space
 0.0.0.0 xysxkzzygujpn.website
 0.0.0.0 xyuqvvrvdmelc.space
+0.0.0.0 xyvorelintus-ai.net
+0.0.0.0 xyvorelintus-pl.net
+0.0.0.0 xyvorelintusai.com
 0.0.0.0 xywfuornohygr.site
 0.0.0.0 xywxwovfxhtaf.space
 0.0.0.0 xyxgbs.lezhin.com
@@ -123035,6 +123071,7 @@
 0.0.0.0 zxrnfc.drinco.jp
 0.0.0.0 zxrntgssqzdre.space
 0.0.0.0 zxrrop.musely.com
+0.0.0.0 zxrtb.com
 0.0.0.0 zxsvveyeixhmm.space
 0.0.0.0 zxttvkshqbded.space
 0.0.0.0 zxuknfffkemse.space
