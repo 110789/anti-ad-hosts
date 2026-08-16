@@ -8970,6 +8970,7 @@
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
 0.0.0.0 ad.ohmynews.com
+0.0.0.0 ad.open.api.jihuoniao.com
 0.0.0.0 ad.open.jiguang.cn
 0.0.0.0 ad.ordersuit.info
 0.0.0.0 ad.org.vn
@@ -16219,6 +16220,7 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
+0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -16793,6 +16795,7 @@
 0.0.0.0 api-analytics-us3.zepp.com
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api-analytics.zepp.com
 0.0.0.0 api-app.ants.vn
 0.0.0.0 api-app.coocaa.ottcn.com
 0.0.0.0 api-auth.flysleep.cn
@@ -17660,10 +17663,12 @@
 0.0.0.0 aplpmvfnyoxji.space
 0.0.0.0 aplus.alibaba.com
 0.0.0.0 aplytazqgfoup.online
+0.0.0.0 apm-api.mihoyo.com
 0.0.0.0 apm-engine.meteor.com
 0.0.0.0 apm-fe.rnote.com
 0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-log-upload-v6.mihoyo.com
 0.0.0.0 apm-log-upload.mihoyo.com
 0.0.0.0 apm-native.redbascket.com
 0.0.0.0 apm-native.xiaohongshu.com
@@ -54716,6 +54721,8 @@
 0.0.0.0 intel-trk.lloydslistintelligence.com
 0.0.0.0 intel.web.noleggiare.it
 0.0.0.0 intellariotradeproapp.pro
+0.0.0.0 intellectual-property-center.edgeone.dev
+0.0.0.0 intellectual-property-troubleshooting-center.edgeone.dev
 0.0.0.0 intellectualcarlaintended.com
 0.0.0.0 intellectualhide.com
 0.0.0.0 intelledox.actonservice.com
@@ -59910,7 +59917,6 @@
 0.0.0.0 lczmrhvmdqbyp.website
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
-0.0.0.0 ld-analytics.ldycdn.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
 0.0.0.0 ldbwxo.cn
@@ -66788,6 +66794,7 @@
 0.0.0.0 mato.clanto.cloud
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
+0.0.0.0 matomo.datasanalytics.com
 0.0.0.0 matomo.wanqianyun.cn
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
@@ -69189,6 +69196,7 @@
 0.0.0.0 metrics.yourlexusdealer.com
 0.0.0.0 metrics.zacks.com
 0.0.0.0 metrics0.com
+0.0.0.0 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.com
 0.0.0.0 metrics1-drcn.dt.dbankcloud.eu
@@ -79815,6 +79823,8 @@
 0.0.0.0 polaris5-normal-lq.zijieapi.com
 0.0.0.0 polaris5-normal-xh.zijieapi.com
 0.0.0.0 polaris5-normal-zb.zijieapi.com
+0.0.0.0 polarisx-ai.com
+0.0.0.0 polarisxpl.net
 0.0.0.0 polarmobile.com
 0.0.0.0 polavionex-pro.com
 0.0.0.0 pole.6rooms.com
@@ -80862,7 +80872,9 @@
 0.0.0.0 prohibitedhesitatetransgress.com
 0.0.0.0 proinvest-pl.com
 0.0.0.0 proinvest-pl.net
+0.0.0.0 proinvest-polska.net
 0.0.0.0 proinvestai.net
+0.0.0.0 proinvestpolska-ai.com
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
 0.0.0.0 projectagora.net
 0.0.0.0 projectagora.tech
@@ -101984,6 +101996,7 @@
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.boxt.co.uk
 0.0.0.0 telemetry.bydata.com
+0.0.0.0 telemetry.canva.cn
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 telemetry.commonspirit.org
@@ -103939,6 +103952,7 @@
 0.0.0.0 tr-bouncer.com
 0.0.0.0 tr-business.vodafone.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
+0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-monday.xyz
@@ -105389,6 +105403,7 @@
 0.0.0.0 track.social.com
 0.0.0.0 track.sodapdf.com
 0.0.0.0 track.sohu.com
+0.0.0.0 track.sohu.com.dsa.dnsv1.com.cn
 0.0.0.0 track.solutions.ostechnology.co.jp
 0.0.0.0 track.solventum.com
 0.0.0.0 track.span-smt.jp
@@ -110819,6 +110834,7 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
+0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 v96-sz-daily-reading-ad.qznovelvod.com
@@ -116820,6 +116836,7 @@
 0.0.0.0 www.diannaodian.com
 0.0.0.0 www.dianru.com
 0.0.0.0 www.diediao.com
+0.0.0.0 www.digitalfiles.org
 0.0.0.0 www.digitalunion.cn
 0.0.0.0 www.directnetadvertising.net
 0.0.0.0 www.dobreprogramy.pro
@@ -119223,6 +119240,7 @@
 0.0.0.0 ximybkpxwu.com
 0.0.0.0 xin.ygqczh.com
 0.0.0.0 xinbo-lora.cn
+0.0.0.0 xindalawyer.com
 0.0.0.0 xindream.cn
 0.0.0.0 xing-share.com
 0.0.0.0 xinghao89.com
