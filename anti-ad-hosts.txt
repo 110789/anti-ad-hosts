@@ -1065,7 +1065,6 @@
 0.0.0.0 24h-ipad-ad.24hstatic.com
 0.0.0.0 24jp8wjmho.com
 0.0.0.0 24kad.com
-0.0.0.0 24klm.cn
 0.0.0.0 24log.com
 0.0.0.0 24log.de
 0.0.0.0 24log.es
@@ -8469,6 +8468,7 @@
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-market.vivo.com.cn
+0.0.0.0 ad-material.ys7.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-miner.com
@@ -19898,6 +19898,7 @@
 0.0.0.0 auth-em.hismarttv.com
 0.0.0.0 auth-eu.hismarttv.com
 0.0.0.0 auth-google.site
+0.0.0.0 auth-jp.hismarttv.com
 0.0.0.0 auth-launcher-em.hismarttv.com
 0.0.0.0 auth-launcher-eu.hismarttv.com
 0.0.0.0 auth-launcher-jp.hismarttv.com
@@ -19905,6 +19906,7 @@
 0.0.0.0 auth-launcher-sa.hismarttv.com
 0.0.0.0 auth-na.hismarttv.com
 0.0.0.0 auth-phone-afr.hismarttv.com
+0.0.0.0 auth-phone-ap.hismarttv.com
 0.0.0.0 auth-sa.hismarttv.com
 0.0.0.0 auth.api.gitv.tv
 0.0.0.0 auth.be.sec.miui.com
@@ -25595,6 +25597,7 @@
 0.0.0.0 cars.smartleasing.com.au
 0.0.0.0 carsarace.com
 0.0.0.0 carstat.bitauto.com
+0.0.0.0 cart.net.cn
 0.0.0.0 cart8draw.com
 0.0.0.0 carte.fleet-page.total.fr
 0.0.0.0 cartelsalsa.com
@@ -29725,7 +29728,6 @@
 0.0.0.0 cookies.grenke.de
 0.0.0.0 cookies.innershed.co.uk
 0.0.0.0 cookies.jeugdjournaal.nl
-0.0.0.0 cookies.joneslanglasalle.com.cn
 0.0.0.0 cookies.leadplace.fr
 0.0.0.0 cookies.leavening.com
 0.0.0.0 cookies.livepartners.com
@@ -33523,6 +33525,7 @@
 0.0.0.0 data.t.epost.dnb.no
 0.0.0.0 data.t.worldvision.ca
 0.0.0.0 data.tc.jetstar.com
+0.0.0.0 data.tempersyi.com
 0.0.0.0 data.thepointsguy.com
 0.0.0.0 data.tmail.northeast.aaa.com
 0.0.0.0 data.torry.io
@@ -34571,6 +34574,7 @@
 0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detaillog-global-dual.coolzcloud.com
+0.0.0.0 detaillog-global.coolccloud.com
 0.0.0.0 detaillog-global.coolzcloud.com
 0.0.0.0 detailroi.com
 0.0.0.0 details-update.com
@@ -39322,6 +39326,7 @@
 0.0.0.0 efuxqe.tatilbudur.com
 0.0.0.0 efvrgb12.com
 0.0.0.0 efwhcj.emp-shop.se
+0.0.0.0 efxh.cn
 0.0.0.0 efxzea.badshop.de
 0.0.0.0 efyqbufbkbdsw.site
 0.0.0.0 efyt6.com
@@ -39566,6 +39571,7 @@
 0.0.0.0 ekyjddvsqnbhx.com
 0.0.0.0 ekyngoyzuutls.website
 0.0.0.0 ekyqmiffifosj.space
+0.0.0.0 ekzf.cn
 0.0.0.0 ekzwoygfoevjf.online
 0.0.0.0 ekzyqldtqnnth.online
 0.0.0.0 ekzzgfqnbqvar.website
@@ -41260,7 +41266,9 @@
 0.0.0.0 etzfcwsafuw.com
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 eu-1-id5-sync.com
+0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -41271,6 +41279,7 @@
 0.0.0.0 eu-p.vivoglobal.com
 0.0.0.0 eu-pn2.adserver.yahoo.com
 0.0.0.0 eu-pn4.adserver.yahoo.com
+0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
 0.0.0.0 eu-stsdk.vivoglobal.com
@@ -51568,6 +51577,7 @@
 0.0.0.0 hzzyhl.jobs.ch
 0.0.0.0 i-ad.adwo.com
 0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 i-fk.cn
 0.0.0.0 i-hl.snssdk.com
 0.0.0.0 i-lq.snssdk.com
@@ -60765,6 +60775,7 @@
 0.0.0.0 lguuvbpnyijxu.online
 0.0.0.0 lguvihbqjegvi.website
 0.0.0.0 lgxicvplbnejn.website
+0.0.0.0 lgygy.cn
 0.0.0.0 lgylib.dg-home.ru
 0.0.0.0 lgzatbnlvtnzu.site
 0.0.0.0 lgzkzp.bauhaus.at
@@ -62480,6 +62491,7 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-klink.zijieapi.com
 0.0.0.0 log-lb.skyperfectv.co.jp
+0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log-pub-hk.aoshitang.com
@@ -62584,6 +62596,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pipeline.datarize.io
 0.0.0.0 log.popin.cc
+0.0.0.0 log.qcast.cn
 0.0.0.0 log.qchannel01.cn
 0.0.0.0 log.qchannel03.cn
 0.0.0.0 log.qiniuapi.com
@@ -76155,6 +76168,7 @@
 0.0.0.0 openapi-smsp.getui.com
 0.0.0.0 openapi.cymera.com
 0.0.0.0 openapi.toponad.com
+0.0.0.0 openapi.vip.ptqy.gitv.tv
 0.0.0.0 openapi.yoyi.com.cn
 0.0.0.0 openbook.net
 0.0.0.0 openbox.mobilem.360.cn
@@ -76725,6 +76739,7 @@
 0.0.0.0 ottadvisors.com
 0.0.0.0 ottawa-content.cresa.com
 0.0.0.0 ottimg.cdn.pandora.xiaomi.com
+0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 otto5loki.com
 0.0.0.0 ottupdate.api.mgtv.com
 0.0.0.0 ottupdate.api.nunaios.com
@@ -105725,6 +105740,7 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rtbasia.com
+0.0.0.0 trace.seeyouyima.com
 0.0.0.0 trace.svc.ui.com
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.ynet.com
@@ -120522,6 +120538,7 @@
 0.0.0.0 xtitjpiaoedam.space
 0.0.0.0 xtjdjognknvqa.com
 0.0.0.0 xtjffejzynjib.space
+0.0.0.0 xtjpdfr.cn
 0.0.0.0 xtmhzidqppsit.online
 0.0.0.0 xtmtmiztqxkpi.space
 0.0.0.0 xtomralxdgoof.space
