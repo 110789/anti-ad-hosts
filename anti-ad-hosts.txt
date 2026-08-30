@@ -7399,6 +7399,7 @@
 0.0.0.0 aaayc.cn
 0.0.0.0 aab.taboohome.com
 0.0.0.0 aabbjjcuaputt.site
+0.0.0.0 aabokllq.vercel.app
 0.0.0.0 aacjdq.pontoslivelo.com.br
 0.0.0.0 aad-marketing.ascendeventmedia.com
 0.0.0.0 aad.actonservice.com
@@ -8655,6 +8656,7 @@
 0.0.0.0 ad.batanga.com
 0.0.0.0 ad.batanga.net
 0.0.0.0 ad.bayescom.com
+0.0.0.0 ad.bczcdn.com
 0.0.0.0 ad.be.doubleclick.net
 0.0.0.0 ad.beihai365.com
 0.0.0.0 ad.belleeau.jp
@@ -10684,7 +10686,6 @@
 0.0.0.0 ads-gate.wildberries.ru
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
-0.0.0.0 ads-hera-s1.xhscdn.com
 0.0.0.0 ads-i1.xhscdn.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
@@ -10706,7 +10707,6 @@
 0.0.0.0 ads-media.wildberries.ru
 0.0.0.0 ads-mediafin.adhese.com
 0.0.0.0 ads-monitoring.papegames.com
-0.0.0.0 ads-monitoring.shziyi.com
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-partners.coupang.com
 0.0.0.0 ads-pebblemedia.adhese.com
@@ -10751,12 +10751,12 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-verify.flurry.com
 0.0.0.0 ads-video-al.xhscdn.com
+0.0.0.0 ads-video-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads-vp5-xhscdn.tliveapp.com
 0.0.0.0 ads-vp5.xhscdn.com
 0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 ads-yallo-production.imgix.net
-0.0.0.0 ads.17track.net
 0.0.0.0 ads.1thegioi.vn
 0.0.0.0 ads.359group.com
 0.0.0.0 ads.365.mk
@@ -14903,6 +14903,7 @@
 0.0.0.0 alicat.actonservice.com
 0.0.0.0 alicdn.bayimob.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
+0.0.0.0 alicemolly.shop
 0.0.0.0 alicoccdncnc-xn.inter.71edge.com
 0.0.0.0 alicoccdnct-xn.inter.71edge.com
 0.0.0.0 aliculacoulees.shop
@@ -19119,6 +19120,7 @@
 0.0.0.0 arrivingserpentoutbalance.com
 0.0.0.0 arrlrk.edigital.hu
 0.0.0.0 arrogancedanderuntruth.com
+0.0.0.0 arrogant-magenta-2yqmtzc8.edgeone.dev
 0.0.0.0 arrowpushengine.com
 0.0.0.0 arrtakhihfze.in
 0.0.0.0 arsaqf.yukoyuko.net
@@ -29067,6 +29069,7 @@
 0.0.0.0 connect-dre.dbankcloud.cn
 0.0.0.0 connect-dre.hispace.hicloud.com
 0.0.0.0 connect-drru.dbankcloud.cn
+0.0.0.0 connect-drru.hispace.dbankcloud.cn
 0.0.0.0 connect-drru.hispace.dbankcloud.ru
 0.0.0.0 connect-qa.netapp.com
 0.0.0.0 connect.247media.ads.link4ads.com
@@ -31931,7 +31934,6 @@
 0.0.0.0 d2.mobaders.com
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d2.sinaimg.cn
-0.0.0.0 d2.yiche.com
 0.0.0.0 d200108c6x0w2v.cloudfront.net
 0.0.0.0 d204slsrhoah2f.cloudfront.net
 0.0.0.0 d205jrj5h1616x.cloudfront.net
@@ -43061,6 +43063,7 @@
 0.0.0.0 filasofighit.com
 0.0.0.0 filbrandtco.actonservice.com
 0.0.0.0 file-hw-ads-o.api.leiniao.com
+0.0.0.0 file-whatsappn.hl.cn
 0.0.0.0 file.36krcdn.com
 0.0.0.0 file.autoads.asia
 0.0.0.0 file.blackint3.com
@@ -48032,6 +48035,7 @@
 0.0.0.0 grrergiol.com
 0.0.0.0 grs-dbankcloud-com-dra.appacc-region.dbankedge.cn
 0.0.0.0 grs-dbankcloud-com-dra.appacc.dbankedge.cn
+0.0.0.0 grs-iot.platform.dbankcloud.cn
 0.0.0.0 grs-iot.platform.dbankcloud.com
 0.0.0.0 grs-pub.platform.dbankcloud.cn
 0.0.0.0 grs-pub.platform.dbankcloud.com
@@ -59889,7 +59893,6 @@
 0.0.0.0 lczk.cn
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
-0.0.0.0 ld-analytics.ldycdn.com
 0.0.0.0 ld-analytics.leadongcdn.com
 0.0.0.0 ld-analytics.micyjz.com
 0.0.0.0 ld.mediaget.com
@@ -62212,7 +62215,6 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
-0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -69344,7 +69346,6 @@
 0.0.0.0 mgpl5pqg29.com
 0.0.0.0 mgptul.finson.com
 0.0.0.0 mgr.aduu.cn
-0.0.0.0 mgs123.com
 0.0.0.0 mgsnicqdeydae.space
 0.0.0.0 mgt7.madeindesign.it
 0.0.0.0 mgtmod01.com
@@ -76017,6 +76018,7 @@
 0.0.0.0 orderlyuponprecipitation.com
 0.0.0.0 ordidc.com
 0.0.0.0 ordinary-check.com
+0.0.0.0 ordinary-silver-rkbwyw06.edgeone.dev
 0.0.0.0 ordinarygoonwritten.com
 0.0.0.0 ordinaryhopeflippant.com
 0.0.0.0 ordinaryneckegg.com
@@ -89955,6 +89957,7 @@
 0.0.0.0 sentry-monitor-new.zdmimg.com
 0.0.0.0 sentry-new.dsers.com
 0.0.0.0 sentry-ng.g.smailru.net
+0.0.0.0 sentry-oversea.sunborngame.com
 0.0.0.0 sentry-sg.insta360.com
 0.0.0.0 sentry-us.didiglobal.com
 0.0.0.0 sentry-v2.coros.com
@@ -97627,6 +97630,7 @@
 0.0.0.0 stat.wolterskluwer.pl
 0.0.0.0 stat.wolterskluwer.pt
 0.0.0.0 stat.ws.126.net
+0.0.0.0 stat.wup.huya.com
 0.0.0.0 stat.xdplt.com
 0.0.0.0 stat.xgo.com.cn
 0.0.0.0 stat.xiaomi.com
@@ -97748,6 +97752,7 @@
 0.0.0.0 static.i.mediav.com
 0.0.0.0 static.ichehome.com
 0.0.0.0 static.ifa.camads.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.img.imagecdn.cn
 0.0.0.0 static.inter1ads.com
 0.0.0.0 static.inviziads.com
@@ -110940,6 +110945,7 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
+0.0.0.0 v95-aw-reading-ad.qznovelvod.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-reading-ad.qznovelvod.com
@@ -116763,7 +116769,6 @@
 0.0.0.0 www.diannaodian.com
 0.0.0.0 www.dianru.com
 0.0.0.0 www.diediao.com
-0.0.0.0 www.digitalfiles.org
 0.0.0.0 www.digitalunion.cn
 0.0.0.0 www.directnetadvertising.net
 0.0.0.0 www.dns-loginssl.bausachverstaendiger-wiesbaden.de
