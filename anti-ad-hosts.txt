@@ -8987,6 +8987,7 @@
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.oceanengine.com
 0.0.0.0 ad.ohmynews.com
+0.0.0.0 ad.open.api.jihuoniao.com
 0.0.0.0 ad.open.jiguang.cn
 0.0.0.0 ad.ordersuit.info
 0.0.0.0 ad.org.vn
@@ -9035,6 +9036,7 @@
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.report.jihuoniao.com
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.retargeter.com
 0.0.0.0 ad.rfp.fout.jp
@@ -10687,6 +10689,7 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
 0.0.0.0 ads-i1.xhscdn.com
+0.0.0.0 ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
 0.0.0.0 ads-i2i.jp
@@ -10751,7 +10754,6 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-verify.flurry.com
 0.0.0.0 ads-video-al.xhscdn.com
-0.0.0.0 ads-video-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads-vp5-xhscdn.tliveapp.com
 0.0.0.0 ads-vp5.xhscdn.com
@@ -12292,6 +12294,7 @@
 0.0.0.0 ads3-normal-lq.zijieapi.com.queniuiq.com
 0.0.0.0 ads3-normal-lq.zijieapi.com.w.cdngslb.com
 0.0.0.0 ads3-normal.zijieapi.com
+0.0.0.0 ads3-normal.zijieapi.com.queniusz.com
 0.0.0.0 ads3.advance.net
 0.0.0.0 ads3.adviad.com
 0.0.0.0 ads3.blastro.com
@@ -16247,7 +16250,6 @@
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analytics.ws.126.net
-0.0.0.0 analytics.xdiarys.com
 0.0.0.0 analytics.xelondigital.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.xiloc.net
@@ -16284,7 +16286,6 @@
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
-0.0.0.0 analytics2.xdiarys.com
 0.0.0.0 analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
 0.0.0.0 analyticsapi.qogita.com
@@ -33514,7 +33515,6 @@
 0.0.0.0 datacollection.uve.weibo.com
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
 0.0.0.0 datacollector-dra.dt.hicloud.com
-0.0.0.0 datacollector-drcn.dt.dbankcloud.cn
 0.0.0.0 datacollector-drcn.dt.hicloud.com
 0.0.0.0 datacollector-dre.dt.dbankcloud.cn
 0.0.0.0 datacoral.com
@@ -59893,7 +59893,6 @@
 0.0.0.0 lczk.cn
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
-0.0.0.0 ld-analytics.leadongcdn.com
 0.0.0.0 ld-analytics.micyjz.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
@@ -66800,7 +66799,6 @@
 0.0.0.0 mato.clanto.cloud
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
-0.0.0.0 matomo.datasanalytics.com
 0.0.0.0 matomo.wanqianyun.cn
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
@@ -68783,7 +68781,6 @@
 0.0.0.0 metrics.puritan.com
 0.0.0.0 metrics.pvh.com
 0.0.0.0 metrics.qatarairways.com
-0.0.0.0 metrics.qira.lenovo.com
 0.0.0.0 metrics.questrade.com
 0.0.0.0 metrics.quiksilver.com
 0.0.0.0 metrics.quill.com
@@ -81154,6 +81151,7 @@
 0.0.0.0 prvgjobwcr.com
 0.0.0.0 prvizg.shurgard.be
 0.0.0.0 prvoevhums.com
+0.0.0.0 prw.lenovomm.com
 0.0.0.0 prwrrkaerzzon.space
 0.0.0.0 prx6.destinia.ch
 0.0.0.0 prxymecb.cn
@@ -85023,7 +85021,6 @@
 0.0.0.0 ressources.usine-digitale.com
 0.0.0.0 ressources.usine-nouvelle.com
 0.0.0.0 ressqretcwdkp.site
-0.0.0.0 rest-argus-ad.agoralab.co
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 rest.irs01.com
@@ -86347,6 +86344,7 @@
 0.0.0.0 rtyvaluationia.org
 0.0.0.0 rtyznd.com
 0.0.0.0 rtztthwgifaal.site
+0.0.0.0 ru-commonitor-stsdk.vivoglobal.com
 0.0.0.0 ru-comonrt-stsdk.vivoglobal.com
 0.0.0.0 ru-comort-stsdk.vivoglobal.com
 0.0.0.0 ru-compnrt-stsdk.vivoglobal.com
@@ -86357,6 +86355,7 @@
 0.0.0.0 ru-gmtdmp.mookie1.com
 0.0.0.0 ru-go.experian.com
 0.0.0.0 ru-onrt-stsdk.vivoglobal.com
+0.0.0.0 ru-os-config-appstore.vivoglobal.com
 0.0.0.0 ru-p.vivoglobal.com
 0.0.0.0 ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 ru-ru.siemensplmevents.com
@@ -89969,13 +89968,13 @@
 0.0.0.0 sentry.dev-my.com
 0.0.0.0 sentry.dhgate.com
 0.0.0.0 sentry.eks.hoyoverse.com
-0.0.0.0 sentry.gitcode.com
 0.0.0.0 sentry.hetzner.company
 0.0.0.0 sentry.io
 0.0.0.0 sentry.iptv.rt.ru
 0.0.0.0 sentry.jtexpress.com.cn
 0.0.0.0 sentry.kontur.host
 0.0.0.0 sentry.kuaishou.com
+0.0.0.0 sentry.lkcoffee.com
 0.0.0.0 sentry.lovart.ai
 0.0.0.0 sentry.meitu-int.com
 0.0.0.0 sentry.mindbox.ru
@@ -97859,7 +97858,6 @@
 0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.dfwsgroup.com
 0.0.0.0 statistics.fppressa.ru
-0.0.0.0 statistics.gd.gov.cn
 0.0.0.0 statistics.heatbeat.de
 0.0.0.0 statistics.jfmedier.dk
 0.0.0.0 statistics.klicktel.de
@@ -104058,6 +104056,7 @@
 0.0.0.0 tr-bouncer.com
 0.0.0.0 tr-business.vodafone.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
+0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-monday.xyz
@@ -113442,8 +113441,6 @@
 0.0.0.0 wangmeng.baidu.cn
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wangmeng.sogou.com
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net
-0.0.0.0 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 0.0.0.0 wangunssealery.com
 0.0.0.0 wangxiankang.top
 0.0.0.0 wangyouxs.cn
@@ -113871,6 +113868,7 @@
 0.0.0.0 web-sdk.control.kochava.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 web-security.cloud
+0.0.0.0 web-sentry.kurogame.com
 0.0.0.0 web-sentry.kurogame.net
 0.0.0.0 web-stat.com
 0.0.0.0 web-stat.fr
