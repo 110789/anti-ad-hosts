@@ -1471,7 +1471,6 @@
 0.0.0.0 3600.com
 0.0.0.0 360640.com
 0.0.0.0 360ads.com
-0.0.0.0 360chou.com
 0.0.0.0 360degreesprojects.com
 0.0.0.0 360dianjing.agrantsem.com
 0.0.0.0 360direct.qualfon.com
@@ -1533,7 +1532,6 @@
 0.0.0.0 3917.com
 0.0.0.0 3927fqw3xd.com
 0.0.0.0 3935128650935608632.academyofconsciousleadership.org
-0.0.0.0 3975.com
 0.0.0.0 3975lm.com
 0.0.0.0 39762581b7.com
 0.0.0.0 397c0.admaster.com.cn
@@ -8459,6 +8457,7 @@
 0.0.0.0 ad-m.asia
 0.0.0.0 ad-mapps.com
 0.0.0.0 ad-market.vivo.com.cn
+0.0.0.0 ad-material.ys7.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 ad-miner.com
@@ -8775,6 +8774,7 @@
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.flux.com
 0.0.0.0 ad.fout.jp
+0.0.0.0 ad.foxitreader.cn
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 ad.funp.com
@@ -10145,7 +10145,6 @@
 0.0.0.0 adltserv.com
 0.0.0.0 adlux.com
 0.0.0.0 adlzmqouddtim.space
-0.0.0.0 adm-smc-cn.heytapmobi.com
 0.0.0.0 adm.10jqka.com.cn
 0.0.0.0 adm.265g.com
 0.0.0.0 adm.52swine.com
@@ -10680,13 +10679,12 @@
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
 0.0.0.0 ads-i1.xhscdn.com
-0.0.0.0 ads-i1.xhscdn.com.cdn.dnsv1.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-i3.xhscdn.com
-0.0.0.0 ads-i3.xhscdn.com.a.bdydns.com
 0.0.0.0 ads-i4.xhscdn.com
+0.0.0.0 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-img-bak.xhscdn.com
@@ -10875,6 +10873,7 @@
 0.0.0.0 ads.apn.co.nz
 0.0.0.0 ads.apn.co.za
 0.0.0.0 ads.app.wechat.com
+0.0.0.0 ads.apple.com
 0.0.0.0 ads.appota.com
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 ads.araba.com
@@ -15372,7 +15371,6 @@
 0.0.0.0 analysis.chinaiiss.com
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.prod.joyfru.jiji.com
-0.0.0.0 analysis.shixunsuda.com
 0.0.0.0 analysis.sooplive.co.kr
 0.0.0.0 analysis.tratao.com
 0.0.0.0 analysis.yozocloud.cn
@@ -56432,7 +56430,6 @@
 0.0.0.0 jhuzffeiiargq.space
 0.0.0.0 jhwap.cn
 0.0.0.0 jhwj88.com
-0.0.0.0 jhzfwl.cn
 0.0.0.0 jhzwle.ryuryumall.jp
 0.0.0.0 ji.8881919.cc
 0.0.0.0 ji.dazhantai.com
@@ -62275,6 +62272,7 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
+0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -62418,7 +62416,6 @@
 0.0.0.0 log3-normal-lq.toutiaoapi.com
 0.0.0.0 log3-normal.toutiaoapi.com
 0.0.0.0 log5-applog-hl.fqnovel.com
-0.0.0.0 log5-applog-hl.zijieapi.com
 0.0.0.0 log5-applog-lf.zijieapi.com
 0.0.0.0 log5-applog.fqnovel.com
 0.0.0.0 log5-misc-hl.amemv.com
@@ -67838,6 +67835,7 @@
 0.0.0.0 metric.nomura.co.jp
 0.0.0.0 metric.northeast.aaa.com
 0.0.0.0 metric.nrma.com.au
+0.0.0.0 metric.nuonuo.com
 0.0.0.0 metric.octanner.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.optum.com
@@ -68856,6 +68854,7 @@
 0.0.0.0 metrics.puritan.com
 0.0.0.0 metrics.pvh.com
 0.0.0.0 metrics.qatarairways.com
+0.0.0.0 metrics.qira.lenovo.com
 0.0.0.0 metrics.questrade.com
 0.0.0.0 metrics.quiksilver.com
 0.0.0.0 metrics.quill.com
@@ -69271,7 +69270,6 @@
 0.0.0.0 metrics.yourlexusdealer.com
 0.0.0.0 metrics.zacks.com
 0.0.0.0 metrics0.com
-0.0.0.0 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.com
 0.0.0.0 metrics1-drcn.dt.dbankcloud.eu
@@ -70544,7 +70542,6 @@
 0.0.0.0 monidashi.cn
 0.0.0.0 monitis.com
 0.0.0.0 monitor-ads-test.huan.tv
-0.0.0.0 monitor-ads.huan.tv
 0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
 0.0.0.0 monitor-stsdk.vivo.com.cn
@@ -83194,6 +83191,7 @@
 0.0.0.0 queue2switching.net
 0.0.0.0 queuefireball.com
 0.0.0.0 qufjwerhuok.in
+0.0.0.0 qufu.com.cn
 0.0.0.0 qufzoiycxutsn.website
 0.0.0.0 quge5.com
 0.0.0.0 quick-counter.net
@@ -90058,6 +90056,7 @@
 0.0.0.0 sentinelol.com
 0.0.0.0 sentinelp.com
 0.0.0.0 sentinelpro.com
+0.0.0.0 sentry-26.meitu.com
 0.0.0.0 sentry-ali.cvtapi.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sentry-cdn.top
@@ -90080,15 +90079,16 @@
 0.0.0.0 sentry.d.xiaomi.net
 0.0.0.0 sentry.dev-my.com
 0.0.0.0 sentry.dhgate.com
+0.0.0.0 sentry.dreambig.work
 0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sentry.gitcode.com
 0.0.0.0 sentry.hetzner.company
 0.0.0.0 sentry.io
 0.0.0.0 sentry.iptv.rt.ru
 0.0.0.0 sentry.jtexpress.com.cn
 0.0.0.0 sentry.kontur.host
 0.0.0.0 sentry.kuaishou.com
-0.0.0.0 sentry.lkcoffee.com
-0.0.0.0 sentry.meitu-int.com
+0.0.0.0 sentry.lovart.ai
 0.0.0.0 sentry.mindbox.ru
 0.0.0.0 sentry.music.163.com
 0.0.0.0 sentry.netease.com
@@ -91141,6 +91141,7 @@
 0.0.0.0 sifomedia.se
 0.0.0.0 sift.com
 0.0.0.0 siftscience.com
+0.0.0.0 sifugu.cn
 0.0.0.0 sig.ig.com
 0.0.0.0 sig.igmarkets.com
 0.0.0.0 sig.nadex.com
@@ -97966,6 +97967,7 @@
 0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.dfwsgroup.com
 0.0.0.0 statistics.fppressa.ru
+0.0.0.0 statistics.gd.gov.cn
 0.0.0.0 statistics.heatbeat.de
 0.0.0.0 statistics.jfmedier.dk
 0.0.0.0 statistics.klicktel.de
@@ -97979,7 +97981,6 @@
 0.0.0.0 statistics.tuv.com
 0.0.0.0 statistics.werkenntdenbesten.de
 0.0.0.0 statistics.wibiya.com
-0.0.0.0 statistics.zbj.com
 0.0.0.0 statistics311.net
 0.0.0.0 statisticsaccent.com
 0.0.0.0 statisticslinks.com
@@ -104177,7 +104178,6 @@
 0.0.0.0 tr-rollers.xyz
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
-0.0.0.0 tr-stsdk.vivoglobal.com
 0.0.0.0 tr-timesync.vivoglobal.com
 0.0.0.0 tr-us.adsmoloco.com
 0.0.0.0 tr-usual.xyz
