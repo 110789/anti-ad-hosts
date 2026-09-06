@@ -1478,6 +1478,7 @@
 0.0.0.0 3600.com
 0.0.0.0 360640.com
 0.0.0.0 360ads.com
+0.0.0.0 360chou.com
 0.0.0.0 360degreesprojects.com
 0.0.0.0 360dianjing.agrantsem.com
 0.0.0.0 360direct.qualfon.com
@@ -8723,6 +8724,8 @@
 0.0.0.0 ad.csdn.net
 0.0.0.0 ad.cyapi.cn
 0.0.0.0 ad.da88vn.win
+0.0.0.0 ad.data.lianjia.com
+0.0.0.0 ad.data.peasun.net
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.daztoutiao.com
 0.0.0.0 ad.db3nf.com
@@ -8962,6 +8965,7 @@
 0.0.0.0 ad.molitv.cn
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad.moo-mam-tai.com
+0.0.0.0 ad.moonton.cn
 0.0.0.0 ad.moreto.net
 0.0.0.0 ad.moscowtimes.ru
 0.0.0.0 ad.mox.tv
@@ -10698,10 +10702,12 @@
 0.0.0.0 ads-i1.xhscdn.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
+0.0.0.0 ads-i2.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-i3.xhscdn.com
 0.0.0.0 ads-i4.xhscdn.com
 0.0.0.0 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
+0.0.0.0 ads-i8.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-img-bak.xhscdn.com
@@ -26828,6 +26834,7 @@
 0.0.0.0 chat.quickcep.com
 0.0.0.0 chat1.jd.com
 0.0.0.0 chatboost-cv.algoage.co.jp
+0.0.0.0 chatdlm.com
 0.0.0.0 chateaurecalled.com
 0.0.0.0 chateaurestrictedbriefly.com
 0.0.0.0 chatinator.com
@@ -35906,6 +35913,7 @@
 0.0.0.0 dload.qd.qingting.fm
 0.0.0.0 dloeloqua.danskespil.dk
 0.0.0.0 dlog-config.uu.cc
+0.0.0.0 dlog.wanmei.com
 0.0.0.0 dlogs.bwton.com
 0.0.0.0 dlohjhkldludr.space
 0.0.0.0 dlomtdzridyt.com
@@ -41031,6 +41039,7 @@
 0.0.0.0 error-tracking.megamarket.tech
 0.0.0.0 error.taobao.com.danuoyi.tbcache.com
 0.0.0.0 error.videonow.ru
+0.0.0.0 error.vsszan.com
 0.0.0.0 errordomain.com
 0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 errors.darkreader.app
@@ -41283,6 +41292,7 @@
 0.0.0.0 etzuqprynhyfx.site
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-api.swrve.com
+0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-datareceiver.aki-game.net
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -41312,6 +41322,7 @@
 0.0.0.0 eu.track.digitaladsystems.com
 0.0.0.0 eu.viatrisconnect.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 eu1-rum-openway.guance.com
 0.0.0.0 eu1-sentry.deyecloud.com
 0.0.0.0 eu2.madsone.com
 0.0.0.0 euads-o.api.leiniao.com
@@ -46820,6 +46831,7 @@
 0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalsolutions.risk.lexisnexis.com
 0.0.0.0 globaltraffico.com
+0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 globalwebads.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 globase.com
@@ -50947,6 +50959,7 @@
 0.0.0.0 hsceynquafiri.site
 0.0.0.0 hscta.net
 0.0.0.0 hsdn.org
+0.0.0.0 hse-ire.com
 0.0.0.0 hseda.com
 0.0.0.0 hsehk.cn
 0.0.0.0 hsfcuorcijlne.website
@@ -60173,7 +60186,6 @@
 0.0.0.0 lczk.cn
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
-0.0.0.0 ld-analytics.leadongcdn.com
 0.0.0.0 ld-analytics.micyjz.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
@@ -69089,7 +69101,6 @@
 0.0.0.0 metrics.puritan.com
 0.0.0.0 metrics.pvh.com
 0.0.0.0 metrics.qatarairways.com
-0.0.0.0 metrics.qira.lenovo.com
 0.0.0.0 metrics.questrade.com
 0.0.0.0 metrics.quiksilver.com
 0.0.0.0 metrics.quill.com
@@ -69505,6 +69516,7 @@
 0.0.0.0 metrics.yourlexusdealer.com
 0.0.0.0 metrics.zacks.com
 0.0.0.0 metrics0.com
+0.0.0.0 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.cn
 0.0.0.0 metrics1-drcn.dt.dbankcloud.com
 0.0.0.0 metrics1-drcn.dt.dbankcloud.eu
@@ -70469,6 +70481,7 @@
 0.0.0.0 mo.4k9b.cn
 0.0.0.0 mo.4s5n.cn
 0.0.0.0 mo.b25ku.cn
+0.0.0.0 mo.baidu.com
 0.0.0.0 mo.bsxr.com.cn
 0.0.0.0 mo.dfnbyn.top
 0.0.0.0 mo.drzd9.cn
@@ -77554,6 +77567,7 @@
 0.0.0.0 p6.adkwai.com
 0.0.0.0 p6.tribution.mobi
 0.0.0.0 p66-ad.adkwai.com
+0.0.0.0 p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 0.0.0.0 p66jed4iv.com
 0.0.0.0 p6n0g0ia.xyz
@@ -79611,6 +79625,7 @@
 0.0.0.0 pkxpiuwxhtdbe.space
 0.0.0.0 pkyrdvdcsuiua.site
 0.0.0.0 pkytxfiin.com
+0.0.0.0 pl-fighter.shop
 0.0.0.0 pl-go.experian.com
 0.0.0.0 pl-topgal.m-shop.me
 0.0.0.0 pl-wodranek.com
@@ -82909,6 +82924,7 @@
 0.0.0.0 qirluszpy.in
 0.0.0.0 qirqritp.com
 0.0.0.0 qishituan.top
+0.0.0.0 qishui-vip.com.cn
 0.0.0.0 qitdsl.ralf.ru
 0.0.0.0 qitkpdaoujpxu.space
 0.0.0.0 qituduwios.com
@@ -90443,6 +90459,7 @@
 0.0.0.0 sentry.d.xiaomi.net
 0.0.0.0 sentry.dev-my.com
 0.0.0.0 sentry.dhgate.com
+0.0.0.0 sentry.dreambig.work
 0.0.0.0 sentry.eks.hoyoverse.com
 0.0.0.0 sentry.gitcode.com
 0.0.0.0 sentry.hetzner.company
@@ -90451,6 +90468,7 @@
 0.0.0.0 sentry.jtexpress.com.cn
 0.0.0.0 sentry.kontur.host
 0.0.0.0 sentry.kuaishou.com
+0.0.0.0 sentry.lkcoffee.com
 0.0.0.0 sentry.lovart.ai
 0.0.0.0 sentry.mindbox.ru
 0.0.0.0 sentry.music.163.com
@@ -98386,7 +98404,6 @@
 0.0.0.0 statpipe.ru
 0.0.0.0 statres.quickapp.cn
 0.0.0.0 stats-bq.stylight.net
-0.0.0.0 stats-cdn.polyspeak.ai
 0.0.0.0 stats-cdn.polyspeak.ai.cdn.dnsv1.com
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-dev.brid.tv
@@ -99051,7 +99068,6 @@
 0.0.0.0 stats.sirdata.com
 0.0.0.0 stats.sixseven.at
 0.0.0.0 stats.ski.com
-0.0.0.0 stats.skywork.ai
 0.0.0.0 stats.slashed.cloud
 0.0.0.0 stats.slicedthread.com
 0.0.0.0 stats.smartclip.net
@@ -102585,6 +102601,7 @@
 0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.boxt.co.uk
 0.0.0.0 telemetry.bydata.com
+0.0.0.0 telemetry.canva.cn
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 telemetry.commonspirit.org
@@ -111477,6 +111494,7 @@
 0.0.0.0 v9-linkchat.oceanengine.com
 0.0.0.0 v9-reading-ad.qznovelvod.com
 0.0.0.0 v9.cnzz.com
+0.0.0.0 v95-aw-reading-ad.qznovelvod.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
 0.0.0.0 v96-reading-ad.qznovelvod.com
@@ -111509,6 +111527,7 @@
 0.0.0.0 vads.vn
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 vaeokirhu.com
+0.0.0.0 vaeth.cn
 0.0.0.0 vafbpeqennikp.website
 0.0.0.0 vafw.adsafeprotected.com
 0.0.0.0 vagrejaba.com
