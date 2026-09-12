@@ -10595,6 +10595,7 @@
 0.0.0.0 ads-gate.wildberries.ru
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-go.adroi.com.cn
+0.0.0.0 ads-hera-s1.xhscdn.com
 0.0.0.0 ads-i1.xhscdn.com
 0.0.0.0 ads-i10.xhscdn.com
 0.0.0.0 ads-i2.xhscdn.com
@@ -10602,7 +10603,7 @@
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-i3.xhscdn.com
 0.0.0.0 ads-i4.xhscdn.com
-0.0.0.0 ads-i8.xhscdn.com
+0.0.0.0 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-al.xhscdn.com.w.cdngslb.com
 0.0.0.0 ads-img-bak.xhscdn.com
@@ -27879,10 +27880,12 @@
 0.0.0.0 cmyd-10-95.getui.com
 0.0.0.0 cmzaly.gebrueder-goetz.de
 0.0.0.0 cn-api.anythinktech.com
+0.0.0.0 cn-beijing-c.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-da.anythinktech.com
 0.0.0.0 cn-go.experian.com
 0.0.0.0 cn-hangzhou-c.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-job-inner.tradplusad.com
+0.0.0.0 cn-qingdao.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-tk.anythinktech.com
 0.0.0.0 cn.adpinfo.com
 0.0.0.0 cn.adserver.yahoo.com
@@ -28623,7 +28626,6 @@
 0.0.0.0 conduit.redfast.com
 0.0.0.0 conduze.com
 0.0.0.0 conf-cn.dc.heytapmobi.com
-0.0.0.0 conf-eu.dc.heytapmobi.com
 0.0.0.0 conf-in.dc.heytapmobi.com
 0.0.0.0 conf-inner.tradplusad.com
 0.0.0.0 conf-sg.dc.heytapmobi.com
@@ -29989,7 +29991,6 @@
 0.0.0.0 craptroopstammer.com
 0.0.0.0 crapunpredictablefiddle.com
 0.0.0.0 crash.163.com
-0.0.0.0 crash.pcsafe.360safe.com
 0.0.0.0 crash.rnote.com
 0.0.0.0 crash.rnote.com.eo.dnse0.com
 0.0.0.0 crash.xiaohongshu.com
@@ -44263,6 +44264,7 @@
 0.0.0.0 fympiumlrnotc.space
 0.0.0.0 fynox.xyz
 0.0.0.0 fynuparszvqsd.space
+0.0.0.0 fynvax-ai.net
 0.0.0.0 fyosies.icu
 0.0.0.0 fyovqgkrvoiyo.website
 0.0.0.0 fyq.wlgszt.com
@@ -61212,7 +61214,6 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.kuaigeng.com
 0.0.0.0 log.kuwo.cn
-0.0.0.0 log.kyread.cn
 0.0.0.0 log.liepin.com
 0.0.0.0 log.liusha.info
 0.0.0.0 log.ltype.baofeng.com
@@ -69084,6 +69085,7 @@
 0.0.0.0 mo.4k9b.cn
 0.0.0.0 mo.4s5n.cn
 0.0.0.0 mo.b25ku.cn
+0.0.0.0 mo.baidu.com
 0.0.0.0 mo.bsxr.com.cn
 0.0.0.0 mo.dfnbyn.top
 0.0.0.0 mo.drzd9.cn
@@ -75930,7 +75932,6 @@
 0.0.0.0 p6.adkwai.com
 0.0.0.0 p6.tribution.mobi
 0.0.0.0 p66-ad.adkwai.com
-0.0.0.0 p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 0.0.0.0 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 0.0.0.0 p66jed4iv.com
 0.0.0.0 p6n0g0ia.xyz
@@ -87006,6 +87007,7 @@
 0.0.0.0 scjpqut.cn
 0.0.0.0 scjylqtrugste.space
 0.0.0.0 sckexing.cn
+0.0.0.0 sckfcn.cn
 0.0.0.0 sckolyzbykufh.website
 0.0.0.0 sckxppzdm.com
 0.0.0.0 scl6gc5l.site
@@ -88111,6 +88113,7 @@
 0.0.0.0 secureinfo.edc.ca
 0.0.0.0 secureleadsforever.com
 0.0.0.0 secureleadsrn.com
+0.0.0.0 securemetrics-cn.v.aaplimg.com
 0.0.0.0 securemetrics-z.v.aaplimg.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemetrics.apple.com.cn
@@ -88490,7 +88493,6 @@
 0.0.0.0 sentry.jtexpress.com.cn
 0.0.0.0 sentry.kontur.host
 0.0.0.0 sentry.kuaishou.com
-0.0.0.0 sentry.lkcoffee.com
 0.0.0.0 sentry.lovart.ai
 0.0.0.0 sentry.meitu-int.com
 0.0.0.0 sentry.mindbox.ru
@@ -88508,6 +88510,7 @@
 0.0.0.0 sentry.x5.ru
 0.0.0.0 sentry.xiaoyuzhoufm.com
 0.0.0.0 sentry.xunlei.com
+0.0.0.0 sentry1.lingkou.xyz
 0.0.0.0 sentry2.lx.netease.com
 0.0.0.0 sentrymagic.com
 0.0.0.0 senzapudore.it
@@ -109131,7 +109134,6 @@
 0.0.0.0 v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5-ex-reading-ad.qznovelvod.com
 0.0.0.0 v5-reading-ad.qznovelvod.com
-0.0.0.0 v5-se-bjtc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-ex-mc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-sjy-daily-reading-ad.qznovelvod.com
@@ -117879,6 +117881,7 @@
 0.0.0.0 yandui.com
 0.0.0.0 yangniupiju.com
 0.0.0.0 yango-ads.com
+0.0.0.0 yangshengzu.cn
 0.0.0.0 yangzxsh.top
 0.0.0.0 yanhao.red
 0.0.0.0 yanmysipmhlgg.space
