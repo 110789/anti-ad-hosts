@@ -8426,6 +8426,7 @@
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad-generator.net
+0.0.0.0 ad-ggtg-api.37.com.cn
 0.0.0.0 ad-h5-cdn.soulapp.cn
 0.0.0.0 ad-h5-station-cdn.soulapp.cn
 0.0.0.0 ad-hatena.com
@@ -8703,6 +8704,7 @@
 0.0.0.0 ad.csdn.net
 0.0.0.0 ad.cyapi.cn
 0.0.0.0 ad.da88vn.win
+0.0.0.0 ad.data.peasun.net
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.daztoutiao.com
 0.0.0.0 ad.db3nf.com
@@ -8768,7 +8770,6 @@
 0.0.0.0 ad.flurry.com
 0.0.0.0 ad.flux.com
 0.0.0.0 ad.fout.jp
-0.0.0.0 ad.foxitreader.cn
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 ad.funp.com
@@ -8895,6 +8896,7 @@
 0.0.0.0 ad.leadboltads.net
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leadboltmobile.net
+0.0.0.0 ad.lelongpp.com
 0.0.0.0 ad.lflucky.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.life.360.cn
@@ -10686,6 +10688,7 @@
 0.0.0.0 ads-img-bak.xhscdn.com
 0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-impression.papegames.com
 0.0.0.0 ads-integration.rustore.ru
 0.0.0.0 ads-jp.tiktok.com
 0.0.0.0 ads-lb.serving-sys.cn
@@ -13722,6 +13725,7 @@
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-dre.op.hihonorcloud.com
 0.0.0.0 adx-drru.op.dbankcloud.ru
+0.0.0.0 adx-drru.op.hicloud.com
 0.0.0.0 adx-event.ad.jiguang.cn
 0.0.0.0 adx-exchange.toast.com
 0.0.0.0 adx-f.ads.heytapmobi.com
@@ -14344,6 +14348,7 @@
 0.0.0.0 agnruzedegphs.site
 0.0.0.0 agonizing-initiative.pro
 0.0.0.0 agonyshark.com
+0.0.0.0 agoodm.m.taobao.com
 0.0.0.0 agoqaa.stockmann.com
 0.0.0.0 agorahtag.tech
 0.0.0.0 agore.xyz
@@ -15711,7 +15716,6 @@
 0.0.0.0 analytics.ewz.ch
 0.0.0.0 analytics.explus.vn
 0.0.0.0 analytics.ext.go-tellm.com
-0.0.0.0 analytics.f2b211.com
 0.0.0.0 analytics.fabricators.ltd
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faceitanalytics.com
@@ -15730,6 +15734,7 @@
 0.0.0.0 analytics.floridatravellife.com
 0.0.0.0 analytics.fnbfremont.com
 0.0.0.0 analytics.fnni.com
+0.0.0.0 analytics.fontke.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
@@ -16852,6 +16857,7 @@
 0.0.0.0 api-analytics-us3.zepp.com
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.metaps.com
+0.0.0.0 api-analytics.zepp.com
 0.0.0.0 api-app.ants.vn
 0.0.0.0 api-app.coocaa.ottcn.com
 0.0.0.0 api-auth.flysleep.cn
@@ -16903,6 +16909,7 @@
 0.0.0.0 api-gi.getui.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 api-gps-eu.hismarttv.com
+0.0.0.0 api-gps-na.hismarttv.com
 0.0.0.0 api-gps.hismarttv.com
 0.0.0.0 api-h.outgrow.co
 0.0.0.0 api-home.coocaa.ottcn.com
@@ -17303,6 +17310,7 @@
 0.0.0.0 api.iot.jiguang.cn
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.ipinfodb.com
+0.0.0.0 api.iplay.163.com
 0.0.0.0 api.ipstack.com
 0.0.0.0 api.iqiyi.com
 0.0.0.0 api.iris.tv
@@ -19962,6 +19970,7 @@
 0.0.0.0 auth-launcher-sa.hismarttv.com
 0.0.0.0 auth-na.hismarttv.com
 0.0.0.0 auth-phone-afr.hismarttv.com
+0.0.0.0 auth-phone-ap.hismarttv.com
 0.0.0.0 auth-sa.hismarttv.com
 0.0.0.0 auth.api.gitv.tv
 0.0.0.0 auth.be.sec.miui.com
@@ -20254,6 +20263,7 @@
 0.0.0.0 aws-update.net
 0.0.0.0 aws.dsp.madserving.com
 0.0.0.0 awsexam.quantresear.ch
+0.0.0.0 awssgp0-files.fds.api.xiaomi.com
 0.0.0.0 awstats.cloud
 0.0.0.0 awsurveys.com
 0.0.0.0 awtjudztob.in
@@ -28704,6 +28714,7 @@
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.bannercrowd.net
 0.0.0.0 collect.bz.mgtv.com
+0.0.0.0 collect.camera360.com
 0.0.0.0 collect.cap.ch
 0.0.0.0 collect.chaordicsystems.com
 0.0.0.0 collect.cloudsponge.com
@@ -32959,6 +32970,7 @@
 0.0.0.0 daftarfilles.shop
 0.0.0.0 dafvng.sunrefre.jp
 0.0.0.0 dagd0kz7sipfl.cloudfront.net
+0.0.0.0 dageyuan.cn
 0.0.0.0 dagnar.com
 0.0.0.0 dagong.org
 0.0.0.0 dahaolong.top
@@ -43281,6 +43293,7 @@
 0.0.0.0 fifubhqxlrokg.online
 0.0.0.0 figglefodge.com
 0.0.0.0 fight.offtherecord.com
+0.0.0.0 fighter-shop.shop
 0.0.0.0 fighterfan.shop
 0.0.0.0 fightingdesert.com
 0.0.0.0 fightmallowfiasco.com
@@ -48580,8 +48593,6 @@
 0.0.0.0 gughkbhwynapy.website
 0.0.0.0 guhmzgbwilvst.space
 0.0.0.0 guhyqz.hawesko.de
-0.0.0.0 guid.tpns.hk.tencent.com
-0.0.0.0 guid.tpns.sh.tencent.com
 0.0.0.0 guid.tpns.tencent.com
 0.0.0.0 guidecent.com
 0.0.0.0 guidelingerbeige.com
@@ -55416,7 +55427,6 @@
 0.0.0.0 ios.426g.com
 0.0.0.0 ios.asktagapp.com
 0.0.0.0 ios.bugly.qq.com
-0.0.0.0 ios.bugly.tencent.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 iosipa.b0.upaiyun.com
 0.0.0.0 iot-business.vodafone.com
@@ -57612,7 +57622,6 @@
 0.0.0.0 js.natsdk.com
 0.0.0.0 js.oh100.com
 0.0.0.0 js.paochala.net
-0.0.0.0 js.passport.qihucdn.com
 0.0.0.0 js.ptengine.cn
 0.0.0.0 js.ptmind.com
 0.0.0.0 js.pub.tom.com
@@ -60431,8 +60440,6 @@
 0.0.0.0 lczk.cn
 0.0.0.0 lczoidhsuvuyu.site
 0.0.0.0 lcztnn.asics-trading.co.jp
-0.0.0.0 ld-analytics.leadongcdn.com
-0.0.0.0 ld-analytics.micyjz.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
 0.0.0.0 ldckmk.divarese.com.tr
@@ -62713,6 +62720,7 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-klink.zijieapi.com
 0.0.0.0 log-lb.skyperfectv.co.jp
+0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log-pub-hk.aoshitang.com
@@ -62781,7 +62789,6 @@
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 0.0.0.0 log.hiiir.com
-0.0.0.0 log.homestyler.com
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.hunantv.com
 0.0.0.0 log.hypebeast.com
@@ -62794,7 +62801,6 @@
 0.0.0.0 log.kajicam.com
 0.0.0.0 log.kinolights.com
 0.0.0.0 log.klook.com
-0.0.0.0 log.kookapp.cn
 0.0.0.0 log.kuaigeng.com
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.liusha.info
@@ -67400,7 +67406,6 @@
 0.0.0.0 mato.clanto.cloud
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
-0.0.0.0 matomo.datasanalytics.com
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matrimoniale3x.ro
@@ -70238,7 +70243,6 @@
 0.0.0.0 mini-site.larksuite-marketing.com
 0.0.0.0 mini-stats.jpush.cn
 0.0.0.0 mini.cpc.sogou.com
-0.0.0.0 mini.eastday.com
 0.0.0.0 mini.hao123.com
 0.0.0.0 mini.jijiplayer.com
 0.0.0.0 miniapp-ad.bj.bcebos.com
@@ -80147,7 +80151,6 @@
 0.0.0.0 plausible.kdojang.com
 0.0.0.0 plausible.kundenportal.io
 0.0.0.0 plausible.lesbianromantic.com
-0.0.0.0 plausible.lobehub-inc.cn
 0.0.0.0 plausible.logicboard.com
 0.0.0.0 plausible.mattpruitt.com
 0.0.0.0 plausible.mcj.co
@@ -85641,6 +85644,7 @@
 0.0.0.0 republicfarm.net
 0.0.0.0 repulsiveformerlydevaluation.com
 0.0.0.0 req.adsmogo.com
+0.0.0.0 req.adx.xlqeai.com
 0.0.0.0 req.appads.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 req1.appads.com
@@ -85888,7 +85892,6 @@
 0.0.0.0 ressources.usine-digitale.com
 0.0.0.0 ressources.usine-nouvelle.com
 0.0.0.0 ressqretcwdkp.site
-0.0.0.0 rest-argus-ad.agoralab.co
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 rest.irs01.com
@@ -87230,6 +87233,7 @@
 0.0.0.0 rtyznd.com
 0.0.0.0 rtznhfqlsdmnf.site
 0.0.0.0 rtztthwgifaal.site
+0.0.0.0 ru-album-api.vivoglobal.com
 0.0.0.0 ru-commonitor-stsdk.vivoglobal.com
 0.0.0.0 ru-comonrt-stsdk.vivoglobal.com
 0.0.0.0 ru-comort-stsdk.vivoglobal.com
@@ -87241,8 +87245,11 @@
 0.0.0.0 ru-gmtdmp.mookie1.com
 0.0.0.0 ru-go.experian.com
 0.0.0.0 ru-onrt-stsdk.vivoglobal.com
+0.0.0.0 ru-ort-stsdk.vivoglobal.com
 0.0.0.0 ru-os-config-appstore.vivoglobal.com
 0.0.0.0 ru-p.vivoglobal.com
+0.0.0.0 ru-pnrt-stsdk.vivoglobal.com
+0.0.0.0 ru-prt-stsdk.vivoglobal.com
 0.0.0.0 ru-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 ru-ru.siemensplmevents.com
 0.0.0.0 ru-st-exappupgrade.vivoglobal.com
@@ -90879,6 +90886,7 @@
 0.0.0.0 sentry-next.yuanfudao.com
 0.0.0.0 sentry-ng.g.smailru.net
 0.0.0.0 sentry-oversea.sunborngame.com
+0.0.0.0 sentry-qa.sunborngame.com
 0.0.0.0 sentry-sg.insta360.com
 0.0.0.0 sentry-us.didiglobal.com
 0.0.0.0 sentry-v2.coros.com
@@ -98730,7 +98738,6 @@
 0.0.0.0 static.pay.baidu.com
 0.0.0.0 static.popads.net
 0.0.0.0 static.ptqy.gitv.tv
-0.0.0.0 static.qiyi.com
 0.0.0.0 static.rongkao.com
 0.0.0.0 static.rqmob.com
 0.0.0.0 static.sellbuyshop.cn
@@ -98809,6 +98816,7 @@
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.fppressa.ru
+0.0.0.0 statistics.gd.gov.cn
 0.0.0.0 statistics.heatbeat.de
 0.0.0.0 statistics.jfmedier.dk
 0.0.0.0 statistics.klicktel.de
@@ -105045,10 +105053,12 @@
 0.0.0.0 tr-boost.com
 0.0.0.0 tr-bouncer.com
 0.0.0.0 tr-business.vodafone.com
+0.0.0.0 tr-cota.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
 0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-experiments.parsely.com
+0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
 0.0.0.0 tr-monday.xyz
 0.0.0.0 tr-ms.bosch-home.com
 0.0.0.0 tr-ms.profilo.com
@@ -121107,7 +121117,6 @@
 0.0.0.0 yangshengzu.cn
 0.0.0.0 yangzxsh.top
 0.0.0.0 yanhao.red
-0.0.0.0 yanjiapi.antutu.net
 0.0.0.0 yanmysipmhlgg.space
 0.0.0.0 yannqrnohpakv.space
 0.0.0.0 yanpoly.com
