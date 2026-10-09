@@ -233,7 +233,6 @@
 0.0.0.0 0wk6gdkg8r.com
 0.0.0.0 0wpfe0duo.com
 0.0.0.0 0x01n2ptpuz3.com
-0.0.0.0 0x2beace.com
 0.0.0.0 0x5.me
 0.0.0.0 0x79jjyph7.com
 0.0.0.0 0xr7ii3df.com
@@ -477,7 +476,6 @@
 0.0.0.0 125.net.jumia.co.ke
 0.0.0.0 12551-1311572332.cos.ap-shanghai.myqcloud.com
 0.0.0.0 125700.shop
-0.0.0.0 126.cn
 0.0.0.0 127.irs01.com
 0.0.0.0 127e2202ec.com
 0.0.0.0 12915784.care.sanvello.com
@@ -2954,6 +2952,7 @@
 0.0.0.0 8hvq8jskh.com
 0.0.0.0 8hx7k0211.com
 0.0.0.0 8iav2fuiy.com
+0.0.0.0 8ieu7ue.cyou
 0.0.0.0 8j1f0af5.de
 0.0.0.0 8j7tu8vtxx.com
 0.0.0.0 8jfbt5va3r.com
@@ -12810,6 +12809,7 @@
 0.0.0.0 adserver.wietforum.nl
 0.0.0.0 adserver.x3.hu
 0.0.0.0 adserver.xpanama.net
+0.0.0.0 adserver.yaboo.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver.zeads.com
 0.0.0.0 adserver01.de
@@ -16909,6 +16909,7 @@
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-gi.getui.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 api-gps-em.hismarttv.com
 0.0.0.0 api-gps-eu.hismarttv.com
 0.0.0.0 api-gps.hismarttv.com
 0.0.0.0 api-h.outgrow.co
@@ -25426,7 +25427,8 @@
 0.0.0.0 cangshu.info
 0.0.0.0 canidquott.shop
 0.0.0.0 caninesindium.com
-0.0.0.0 canjearppuntos.click
+0.0.0.0 canjepuntostotal.click
+0.0.0.0 canjepuntosvip.click
 0.0.0.0 cank9.site
 0.0.0.0 canlytics.com
 0.0.0.0 canneryaired.shop
@@ -26789,6 +26791,7 @@
 0.0.0.0 changelesschoir.com
 0.0.0.0 changepowder.xyz
 0.0.0.0 changmaoxinjzo.com
+0.0.0.0 changyan.sohu.com
 0.0.0.0 changyi21.cn
 0.0.0.0 channel-analysis-js.gmw.cn
 0.0.0.0 channel-impact.actonservice.com
@@ -28303,14 +28306,10 @@
 0.0.0.0 cn-api.anythinktech.com
 0.0.0.0 cn-beijing-c.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-da.anythinktech.com
-0.0.0.0 cn-feed-whatsapp.com.cn
 0.0.0.0 cn-go.experian.com
-0.0.0.0 cn-gui-whatsapp.com.cn
 0.0.0.0 cn-hangzhou-c.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-hangzhou.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-job-inner.tradplusad.com
-0.0.0.0 cn-peer-whatsapp.com.cn
-0.0.0.0 cn-ping-whatsapp.com.cn
 0.0.0.0 cn-qingdao.dualstack.log.usd.alibabadns.com
 0.0.0.0 cn-tk.anythinktech.com
 0.0.0.0 cn.adpinfo.com
@@ -28470,6 +28469,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 cnzz.yifenghuyu.com
 0.0.0.0 cnzzlink.com
+0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-onrt-stsdk.vivoglobal.com
 0.0.0.0 co-ort-stsdk.vivoglobal.com
@@ -30882,7 +30882,6 @@
 0.0.0.0 css888.bceapp.com
 0.0.0.0 cssdwkjzdxxqn.online
 0.0.0.0 csstmrxvhyufk.site
-0.0.0.0 cstaticdun.126.net
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 cstm.baidu.com
 0.0.0.0 cstmedia.com.cn
@@ -44825,7 +44824,6 @@
 0.0.0.0 furiousexpansion.com
 0.0.0.0 furlhp.kango.mynavi.jp
 0.0.0.0 furnishings.bellacor.com
-0.0.0.0 furniture-store.shop
 0.0.0.0 furnituredl.istaging.co
 0.0.0.0 furoinalexas.com
 0.0.0.0 furowo.org
@@ -47725,6 +47723,7 @@
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 gorillapage.com
 0.0.0.0 gorillatraffic.xyz
+0.0.0.0 gorituals.shop
 0.0.0.0 gorsbphljucre.site
 0.0.0.0 gorxusrnnmooe.space
 0.0.0.0 gosbyfencjhqa.online
@@ -48908,6 +48907,7 @@
 0.0.0.0 hall3hook.com
 0.0.0.0 halldata.com
 0.0.0.0 halloosreacher.com
+0.0.0.0 halloweencostumes-ie.shop
 0.0.0.0 hallucinatecognizance.com
 0.0.0.0 halo.actonservice.com
 0.0.0.0 halo.ad.gt
@@ -49901,6 +49901,7 @@
 0.0.0.0 hirmbzroviasa.online
 0.0.0.0 hirony.xyz
 0.0.0.0 hirsung.de
+0.0.0.0 hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 0.0.0.0 hisearch-dra.dt.dbankcloud.com
 0.0.0.0 hisearch-drcn.dt.dbankcloud.com
 0.0.0.0 hisearch-dre.dt.dbankcloud.com
@@ -50628,6 +50629,7 @@
 0.0.0.0 hourspaltrypointed.com
 0.0.0.0 housebutsoon.com
 0.0.0.0 housecarefullyidiotic.com
+0.0.0.0 housedeal-eu.shop
 0.0.0.0 household35.top
 0.0.0.0 householdjeopardy.com
 0.0.0.0 housejomadkc.com
@@ -51035,6 +51037,7 @@
 0.0.0.0 hubmetrics.samsclub.com
 0.0.0.0 hubrisone.com
 0.0.0.0 hubrus.com
+0.0.0.0 hubstat.sandai.net
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 hubtraffic.com
 0.0.0.0 hubvisor.io
@@ -67069,6 +67072,7 @@
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
 0.0.0.0 matomo.datasanalytics.com
+0.0.0.0 matomo.mdjpxw.com
 0.0.0.0 matomo3.org
 0.0.0.0 matomy.adk2.co
 0.0.0.0 matrimoniale3x.ro
@@ -69485,6 +69489,7 @@
 0.0.0.0 metrics1.thankyou.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics2.houselogic.com
+0.0.0.0 metrics2.unity.cn
 0.0.0.0 metrics2.williamhill.com
 0.0.0.0 metricsdirect.com
 0.0.0.0 metricsinfo.edc.ca
@@ -70325,7 +70330,6 @@
 0.0.0.0 mmccint.com
 0.0.0.0 mmchkbriryqrl.space
 0.0.0.0 mmctsvc.com
-0.0.0.0 mmda-mayhulika-ph.com
 0.0.0.0 mmdamayhulikaph.com
 0.0.0.0 mmdcokadaklfg.website
 0.0.0.0 mmds.suning.com
@@ -96087,6 +96091,7 @@
 0.0.0.0 sorebear.com
 0.0.0.0 soresidewalk.com
 0.0.0.0 soretrain.com
+0.0.0.0 sorituals.shop
 0.0.0.0 sorrhs.nescafe.com.tr
 0.0.0.0 sorrowdefinedasterisk.com
 0.0.0.0 sorrowful-comment.pro
@@ -96792,6 +96797,7 @@
 0.0.0.0 srhuafeng.com
 0.0.0.0 srhwazpvlyxua.online
 0.0.0.0 srimzivocntgw.site
+0.0.0.0 sriramnwar-dpoae04723lz.edgeone.dev
 0.0.0.0 srjqcahmdvhuh.online
 0.0.0.0 srm4.destinia.co.no
 0.0.0.0 srmdata-eur.com
@@ -109352,6 +109358,7 @@
 0.0.0.0 umami.ikxin.com
 0.0.0.0 umami.is
 0.0.0.0 umami.mao.fan
+0.0.0.0 umami.mdjpxw.com
 0.0.0.0 umami.spencerdevs.xyz
 0.0.0.0 umami.vidfast.pro
 0.0.0.0 umamistreet.analytics.qlook.net
@@ -111330,7 +111337,7 @@
 0.0.0.0 v5-bd-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5-ex-reading-ad.qznovelvod.com
 0.0.0.0 v5-reading-ad.qznovelvod.com
-0.0.0.0 v5-se-bjtc-reading-ad.qznovelvod.com
+0.0.0.0 v5-se-ex-mc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-gddgtc-reading-ad.qznovelvod.com
 0.0.0.0 v5-se-sjy-daily-reading-ad.qznovelvod.com
 0.0.0.0 v5.cnzz.com
@@ -122025,7 +122032,6 @@
 0.0.0.0 zakladybolslkzs.homes
 0.0.0.0 zakladybolslkzw.homes
 0.0.0.0 zakladykspl.shop
-0.0.0.0 zakladyspl.shop
 0.0.0.0 zaktucdkuvw.com
 0.0.0.0 zalo-ads-240-td.zadn.vn
 0.0.0.0 zalo-ads-240.zadn.vn
@@ -122473,6 +122479,7 @@
 0.0.0.0 zhichangwo.com
 0.0.0.0 zhidian3g.cn
 0.0.0.0 zhifupaypay.com
+0.0.0.0 zhigao5191.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhihu-web-analytics.zhihu.com.eo.dnse0.com
 0.0.0.0 zhihu.xmcimg.com
