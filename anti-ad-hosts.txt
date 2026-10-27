@@ -294,6 +294,7 @@
 0.0.0.0 1.mgff.com
 0.0.0.0 1.modzj.net
 0.0.0.0 1.nanrenwo.net
+0.0.0.0 1.pncdn.cn
 0.0.0.0 1.proewildfire.cn
 0.0.0.0 1.qjhm.net
 0.0.0.0 1.shopit.cn
@@ -2241,6 +2242,7 @@
 0.0.0.0 6519114.loyalty.tajawal.com
 0.0.0.0 6519114.mktg.almosafer.com
 0.0.0.0 6519114.mktg.tajawal.com
+0.0.0.0 65362655721.edgeone.dev
 0.0.0.0 653727308e.com
 0.0.0.0 6554.net
 0.0.0.0 65fcb6f3fe.com
@@ -9937,6 +9939,7 @@
 0.0.0.0 adim.pinduoduo.com
 0.0.0.0 adimage.blm.net
 0.0.0.0 adimage.bwton.com
+0.0.0.0 adimage.bwton.com.w.kunluncan.com
 0.0.0.0 adimages.go.com
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 adimg.163.com
@@ -13389,7 +13392,6 @@
 0.0.0.0 advert-media-api.wildberries.ru
 0.0.0.0 advert-prod.hyrz.qq.com
 0.0.0.0 advert-server.elecfans.com
-0.0.0.0 advert-statistic-vip.xunlei.com
 0.0.0.0 advert-time.com
 0.0.0.0 advert-track.com
 0.0.0.0 advert.58.com
@@ -14717,6 +14719,7 @@
 0.0.0.0 akvqruhyqzsop.site
 0.0.0.0 akxmcwvwliico.website
 0.0.0.0 akxttaqmivp.in
+0.0.0.0 akydw.com
 0.0.0.0 akydxrphsdaaq.site
 0.0.0.0 akyidxbfhyqfd.online
 0.0.0.0 akykvnbddvyjo.site
@@ -15305,6 +15308,7 @@
 0.0.0.0 analysis.chinaiiss.com
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.prod.joyfru.jiji.com
+0.0.0.0 analysis.shixunsuda.com
 0.0.0.0 analysis.sooplive.co.kr
 0.0.0.0 analysis.tratao.com
 0.0.0.0 analysis.watcha.cn
@@ -34914,6 +34918,7 @@
 0.0.0.0 dhkyrl.discountmags.com
 0.0.0.0 dhl.135320.com
 0.0.0.0 dhlh.org
+0.0.0.0 dhlpolska.edgeone.cool
 0.0.0.0 dhmdja.trueprotein.com.au
 0.0.0.0 dhnoynooncybj.com
 0.0.0.0 dhootiepawed.com
@@ -37015,6 +37020,7 @@
 0.0.0.0 dserdo.com
 0.0.0.0 dserju.com
 0.0.0.0 dsetx3.com
+0.0.0.0 dseulm.shop
 0.0.0.0 dseyzk.com
 0.0.0.0 dsfdzo.com
 0.0.0.0 dsfe19.madeindesign.com
@@ -41079,6 +41085,7 @@
 0.0.0.0 errnewlog.umeng.com
 0.0.0.0 error-analytics-production.shopifysvc.com
 0.0.0.0 error-analytics-sessions-production.shopifysvc.com
+0.0.0.0 error-code.jftechws.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error-tracking.megamarket.tech
 0.0.0.0 error.taobao.com.danuoyi.tbcache.com
@@ -49412,6 +49419,7 @@
 0.0.0.0 hartinquiesce.com
 0.0.0.0 harvest.graindata.com
 0.0.0.0 harvester.cms.markiza.sk
+0.0.0.0 harvestlanshop.shop
 0.0.0.0 harvesttraffic.com
 0.0.0.0 hasaeblmtcadr.website
 0.0.0.0 hasalltalent.com
@@ -51123,6 +51131,7 @@
 0.0.0.0 hqazaazwdnxle.site
 0.0.0.0 hqbaanqvcscwl.space
 0.0.0.0 hqbttzzvympnn.website
+0.0.0.0 hqcqz2.cn
 0.0.0.0 hqdacihnnldfv.online
 0.0.0.0 hqdhdyehelnks.online
 0.0.0.0 hqeiwwnkce.icu
@@ -51766,6 +51775,7 @@
 0.0.0.0 hyfh.benbaisteel.com
 0.0.0.0 hyfiwldsulvvb.website
 0.0.0.0 hyfntrak.com
+0.0.0.0 hyfyuan.com
 0.0.0.0 hygckbylqhutq.website
 0.0.0.0 hygeistmowhawk.com
 0.0.0.0 hygiena.actonservice.com
@@ -63266,6 +63276,7 @@
 0.0.0.0 log.news.baidu.com
 0.0.0.0 log.node.minigame.qq.com
 0.0.0.0 log.nordot.jp
+0.0.0.0 log.ntyy888.com
 0.0.0.0 log.nuomi.com
 0.0.0.0 log.nvwa.baofeng.com
 0.0.0.0 log.olark.com
@@ -70709,6 +70720,7 @@
 0.0.0.0 mindtake.com
 0.0.0.0 mineinvoice.com
 0.0.0.0 minemytraffic.com
+0.0.0.0 mineon.xin
 0.0.0.0 minerad.com
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
@@ -70758,6 +70770,7 @@
 0.0.0.0 minklemonade.com
 0.0.0.0 minksympathyindoors.com
 0.0.0.0 minningsutu.com
+0.0.0.0 minor-api.mihoyo.com
 0.0.0.0 minorcattle.com
 0.0.0.0 minosurgence.com
 0.0.0.0 minotaur107.com
@@ -76852,6 +76865,7 @@
 0.0.0.0 onlinadverts.com
 0.0.0.0 online-adnetwork.com
 0.0.0.0 online-config.thejeu.com
+0.0.0.0 online-logger.webapp.163.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online-mt-com-455208869.p06.elqsandbox.com
 0.0.0.0 online.cnzz.com
@@ -79400,6 +79414,7 @@
 0.0.0.0 pdfxd.com
 0.0.0.0 pdghwdpxgbpqf.site
 0.0.0.0 pdgknglzhohbi.online
+0.0.0.0 pdhhmf.cn
 0.0.0.0 pdhjdcvjnloyo.com
 0.0.0.0 pdhkjnndwzwys.site
 0.0.0.0 pdhsturqsejda.space
@@ -87068,6 +87083,7 @@
 0.0.0.0 ritkmczosfhgk.online
 0.0.0.0 rittersjatki.com
 0.0.0.0 ritualsbodys.shop
+0.0.0.0 ritualseur.shop
 0.0.0.0 ritzyrepresentative.com
 0.0.0.0 ritzyveil.com
 0.0.0.0 riundo.bonprix.no
@@ -91618,7 +91634,6 @@
 0.0.0.0 sentry-v2.coros.com
 0.0.0.0 sentry-web.fantuan.ca
 0.0.0.0 sentry-web.fosunhanig.com
-0.0.0.0 sentry-youxi.xunlei.com
 0.0.0.0 sentry.123u.com
 0.0.0.0 sentry.aishortdramaai.com
 0.0.0.0 sentry.amflowbikes.com
@@ -91657,7 +91672,6 @@
 0.0.0.0 sentry.kontur.host
 0.0.0.0 sentry.ksztone.com
 0.0.0.0 sentry.kuaishou.com
-0.0.0.0 sentry.kugou.com
 0.0.0.0 sentry.ldplayer.net
 0.0.0.0 sentry.mab.co.id
 0.0.0.0 sentry.manmanbuy.com
@@ -98422,6 +98436,7 @@
 0.0.0.0 ssh.yezijizhang.com
 0.0.0.0 sshhfy.ray-ban.com
 0.0.0.0 sshowads.pubmatic.com
+0.0.0.0 ssi1gqcx0m.com
 0.0.0.0 ssifumonehvyc.space
 0.0.0.0 ssigpc.servusmarktplatz.com
 0.0.0.0 ssindserving.com
@@ -100270,6 +100285,7 @@
 0.0.0.0 stats.soundbite.so
 0.0.0.0 stats.southernphone.com.au
 0.0.0.0 stats.southswindon-pc.gov.uk
+0.0.0.0 stats.spacematchok.com
 0.0.0.0 stats.spark.co.nz
 0.0.0.0 stats.sparkloop.app
 0.0.0.0 stats.speedclicks.ero-advertising.com
@@ -111173,6 +111189,7 @@
 0.0.0.0 unplankpivot.com
 0.0.0.0 unpleasantchampionship.pro
 0.0.0.0 unpracticalwhich.org
+0.0.0.0 unqm8c9dfk.com
 0.0.0.0 unqsnzyrsdkuz.website
 0.0.0.0 unqvaof.xyz
 0.0.0.0 unqxeekhpyfyq.online
@@ -112590,6 +112607,7 @@
 0.0.0.0 uzvvqnaqblxvx.online
 0.0.0.0 uzxksecxqrchr.online
 0.0.0.0 uzyzsowhwgmmv.online
+0.0.0.0 uzzf.com
 0.0.0.0 uzzxkatxegdzh.website
 0.0.0.0 v-pack.net
 0.0.0.0 v-sence.gentags.net
@@ -112800,6 +112818,8 @@
 0.0.0.0 v95-aw-reading-ad.qznovelvod.com
 0.0.0.0 v95-se-zjwztc-reading-ad.qznovelvod.com
 0.0.0.0 v95-ynkmtc-reading-ad.qznovelvod.com
+0.0.0.0 v95-zjjx2tc-reading-ad.qznovelvod.com
+0.0.0.0 v96-reading-ad.qznovelvod.com
 0.0.0.0 va-endpoint.com
 0.0.0.0 va.gxpan.cn
 0.0.0.0 va.huya.com
@@ -114403,6 +114423,7 @@
 0.0.0.0 vqlpduejkboak.site
 0.0.0.0 vqmurqsfoycha.online
 0.0.0.0 vqnkmosjemdjyq.com
+0.0.0.0 vqnvib2h7e.com
 0.0.0.0 vqooisjexmusf.space
 0.0.0.0 vqoqlebzyzbkz.top
 0.0.0.0 vqoqlebzyzbyq.top
@@ -119862,6 +119883,7 @@
 0.0.0.0 www.xn--i6qs37am6iwyqffc.com
 0.0.0.0 www.xn--wcsy74a6d835f5lf.com
 0.0.0.0 www.xorvila.pro
+0.0.0.0 www.xpdyqax.cn
 0.0.0.0 www.xpjylc9977.com
 0.0.0.0 www.xqwiremesh.com
 0.0.0.0 www.xrain.net
