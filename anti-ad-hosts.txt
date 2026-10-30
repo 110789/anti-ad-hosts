@@ -13451,7 +13451,6 @@
 0.0.0.0 advnet.xyz
 0.0.0.0 advnt.com
 0.0.0.0 advocaado.com
-0.0.0.0 advolink.org
 0.0.0.0 advombat.ru
 0.0.0.0 advon.net
 0.0.0.0 advoncommerce.com
@@ -28455,6 +28454,7 @@
 0.0.0.0 confinementroguerecital.com
 0.0.0.0 confirm.aon.com
 0.0.0.0 confirm.ptvgroup.com
+0.0.0.0 confirmation-advanced-reserv538926.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmglobal.com
 0.0.0.0 confirmit.com
@@ -33675,6 +33675,7 @@
 0.0.0.0 delta-static.shop
 0.0.0.0 deltabehavioralhealth.org
 0.0.0.0 deltadigs.com
+0.0.0.0 deltanzio-pro-760.com
 0.0.0.0 deltraff.com
 0.0.0.0 delugerefluxunpinned.com
 0.0.0.0 delusionalrevolt.com
@@ -60546,7 +60547,6 @@
 0.0.0.0 livecounter.dk
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livedjeopardizeemotion.com
-0.0.0.0 liveflashdaily.pro
 0.0.0.0 liveintent.com
 0.0.0.0 livejasmin.com
 0.0.0.0 livejasmin.tv
@@ -78999,7 +78999,6 @@
 0.0.0.0 pranmcpkx.com
 0.0.0.0 prassas.openapp.link
 0.0.0.0 prasserie.openapp.link
-0.0.0.0 pratolivodonna-click.pages.dev
 0.0.0.0 prawnyattorns.com
 0.0.0.0 prayersoriginate.com
 0.0.0.0 prbxckwtajncq.space
@@ -79322,7 +79321,6 @@
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 pro-adblocker.com
 0.0.0.0 pro-advert.de
-0.0.0.0 pro-aiapp-plsolution.com
 0.0.0.0 pro-factory.com
 0.0.0.0 pro-gift.com
 0.0.0.0 pro-market.net
@@ -89032,7 +89030,6 @@
 0.0.0.0 share.coupangeats.com
 0.0.0.0 share.dailyrounds.in
 0.0.0.0 share.drinki.com
-0.0.0.0 share.dropstab-trust.com
 0.0.0.0 share.dunzo.in
 0.0.0.0 share.dusk.app
 0.0.0.0 share.eleph.app
@@ -114464,7 +114461,6 @@
 0.0.0.0 www.adview.cn
 0.0.0.0 www.advmedialine.online
 0.0.0.0 www.advocaado.com
-0.0.0.0 www.advolink.org
 0.0.0.0 www.adw.ero-advertising.com
 0.0.0.0 www.adwo.com
 0.0.0.0 www.adwpaces.ero-advertising.com
@@ -114678,6 +114674,7 @@
 0.0.0.0 www.coin-ad.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.comuzen.pro
+0.0.0.0 www.confirmation-advanced-reserv538926.com
 0.0.0.0 www.contextuads.com
 0.0.0.0 www.cooguo.com
 0.0.0.0 www.cool-downloads.com
@@ -114740,6 +114737,7 @@
 0.0.0.0 www.dcimei.tw
 0.0.0.0 www.dctrk.datedeskads.com
 0.0.0.0 www.deliginess.pro
+0.0.0.0 www.deltanzio-pro-760.com
 0.0.0.0 www.dermalentesog.pro
 0.0.0.0 www.destinationurl.com
 0.0.0.0 www.destinisayments.pro
@@ -115154,7 +115152,6 @@
 0.0.0.0 www.linksjg.cn
 0.0.0.0 www.linthermands.pro
 0.0.0.0 www.liquidstorse.pro
-0.0.0.0 www.liveflashdaily.pro
 0.0.0.0 www.lm.cccab.club
 0.0.0.0 www.lnk0.com
 0.0.0.0 www.lnk8.cn
@@ -115362,12 +115359,10 @@
 0.0.0.0 www.postnewsads.com
 0.0.0.0 www.poweredbyliquidfire.mobi
 0.0.0.0 www.pp9899.com
-0.0.0.0 www.pratolivodonna-click.pages.dev
 0.0.0.0 www.prebid.adnxs.com
 0.0.0.0 www.predictivadvertising.com
 0.0.0.0 www.preexemptsbroadswppord.info
 0.0.0.0 www.prizefestival.mobi
-0.0.0.0 www.pro-aiapp-plsolution.com
 0.0.0.0 www.pro-factory.com
 0.0.0.0 www.pro-gift.com
 0.0.0.0 www.pro-partners.nl
@@ -115473,7 +115468,6 @@
 0.0.0.0 www.sexyads.net
 0.0.0.0 www.shankejingling.com
 0.0.0.0 www.share-server.com
-0.0.0.0 www.share.dropstab-trust.com
 0.0.0.0 www.sharesdk.cn
 0.0.0.0 www.shglegle.com
 0.0.0.0 www.shkywh.com
